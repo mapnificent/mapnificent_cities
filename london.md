@@ -9,7 +9,7 @@ hidden: false
 lat: 51.500515
 lng: -0.128317
 northwest:
-  lat: 51.77283
+  lat: 51.773
   lng: -0.72446
 options:
   defaultStartAtPosition:

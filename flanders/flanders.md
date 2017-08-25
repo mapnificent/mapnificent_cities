@@ -1,8 +1,8 @@
 ---
 added: '2012-09-13T10:46:14.597184'
 changed: '2017-08-25T15:42:55.136618'
-cityid: flemish-region
-cityname: Flemish Region
+cityid: flanders
+cityname: Flanders
 coordinates:
 - 4.37255859375
 - 50.84583876895451

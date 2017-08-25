@@ -3,7 +3,8 @@
 cityid: example-city
 cityname: Example City
 # Center of the map when loaded
-# Coordinates as lat lng (the leading dash is NOT a minus sign, it's a list item)
+# Coordinates as [LNG, LAT] (like GeoJSON, NOT like leaflet)
+# (the leading dash is NOT a minus sign, it's a list item)
 coordinates:
 - 13.369545
 - 52.525592

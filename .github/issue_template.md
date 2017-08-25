@@ -1,3 +1,4 @@
+```
 ---
 cityid: example-city
 cityname: Example City
@@ -23,3 +24,4 @@ zoom: 12
 
 (c) [Transit Agency Name](http://transitagency.example.org)
 ([Terms of Use](http://license.example.org))
+```

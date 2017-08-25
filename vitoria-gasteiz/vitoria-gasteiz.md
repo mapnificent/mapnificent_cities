@@ -1,0 +1,24 @@
+---
+added: '2011-06-03T15:25:27.826393'
+changed: '2017-08-25T11:47:10.441771'
+cityid: vitoria-gasteiz
+cityname: Vitoria-Gasteiz
+coordinates:
+- -2.6716351
+- 42.8467181
+description: ''
+gtfs:
+  tuvisa-euskotran-239:
+    sha256: 70cb069f2d6d36e67ce3fb929b1b998e67b1cc3e1e0c5a529fb7e94e9b77b179
+    tf_feed_id: tuvisa-euskotran/239
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/tuvisa-euskotran/239/20170712/gtfs.zip
+options:
+  calculateOnDrag: true
+  estimatedMaxCalculateCalls: 5000
+tf_location_ids:
+- 187-vitoria-gasteiz-alava-spain
+version: 1
+zoom: 12
+---
+
+(c) [TUVISA](http://www.vitoria-gasteiz.org/we001/was/we001Action.do?idioma=es&aplicacion=wb021&tabla=contenido&uid=75d35ab4_118eeb0d730__7fe5)

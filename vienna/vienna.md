@@ -2,8 +2,8 @@
 cityid: vienna
 cityname: Vienna
 coordinates:
-- 48.20833
 - 16.373064
+- 48.20833
 description: ''
 gtfs:
   wienerlinien:

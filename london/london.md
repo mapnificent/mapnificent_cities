@@ -1,25 +1,13 @@
 ---
-active: true
 added: '2010-10-10T17:52:33.281351'
-changed: '2014-05-23T12:15:47.736048'
+changed: '2017-08-26T13:19:00'
 cityid: london
 cityname: London
+coordinates:
+- -0.128317
+- 51.500515
 description: ''
-hidden: false
-lat: 51.500515
-lng: -0.128317
-northwest:
-  lat: 51.773
-  lng: -0.72446
-options:
-  defaultStartAtPosition:
-    lat: 51.4945146
-    lng: -0.146578
-  estimatedMaxCalculateCalls: 2251795
-southeast:
-  lat: 51.12265
-  lng: 0.32696
-version: 2
+version: 3
 zoom: 12
 
 ---

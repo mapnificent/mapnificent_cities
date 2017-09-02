@@ -23,7 +23,7 @@ options:
     lat: 43.66389797397276
     lng: -79.39407348632812
   estimatedMaxCalculateCalls: 2750000
-  maxWalkTravelTime: 240
+  maxWalkTravelTime: 14400
 tf_location_ids:
 - 49-toronto-on-canada
 - 48-hamilton-on-canada

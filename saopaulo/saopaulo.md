@@ -13,7 +13,7 @@ northwest:
   lng: -46.987272
 options:
   estimatedMaxCalculateCalls: 750000
-  maxWalkTravelTime: 240
+  maxWalkTravelTime: 14400
 southeast:
   lat: -23.912182
   lng: -46.184445

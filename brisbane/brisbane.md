@@ -14,7 +14,7 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/translink/21/20170818/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 170000
-  maxWalkTravelTime: 240
+  maxWalkTravelTime: 14400
 tf_location_ids:
 - 10-brisbane-qld-australia
 version: 2

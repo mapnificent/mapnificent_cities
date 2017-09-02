@@ -26,7 +26,7 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metrolink/332/20170703/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 500000
-  maxWalkTravelTime: 240
+  maxWalkTravelTime: 14400
 tf_location_ids:
 - 154-los-angeles-ca-usa
 version: 6

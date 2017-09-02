@@ -52,7 +52,7 @@ gtfs:
     url: http://web.mta.info/developers/data/nyct/subway/google_transit.zip
 options:
   estimatedMaxCalculateCalls: 2100000
-  maxWalkTravelTime: 240
+  maxWalkTravelTime: 14400
 redirect_from: /albany/
 version: 2
 zoom: 12

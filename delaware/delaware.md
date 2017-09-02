@@ -17,7 +17,7 @@ options:
     lat: 39.73465017434186
     lng: -75.574951171875
   estimatedMaxCalculateCalls: 154112
-  maxWalkTravelTime: 240
+  maxWalkTravelTime: 14400
 tf_location_ids:
 - 163-delaware-usa
 version: 1

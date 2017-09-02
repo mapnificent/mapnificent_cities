@@ -14,7 +14,7 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/vlaamse-vervoersmaatschappij-de-lijn/530/20170824/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 36500000
-  maxWalkTravelTime: 360
+  maxWalkTravelTime: 21600
 redirect_from: /flemish-region/
 tf_location_ids:
 - 385-flanders-belgium

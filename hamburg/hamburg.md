@@ -14,4 +14,4 @@ version: 1
 zoom: 12
 ---
 
-(c) [Name](http://)
+(c) [Hamburger Verkehrsverbund GmbH](http://suche.transparenz.hamburg.de/dataset/hvv-fahrplandaten-gtfs-september-2017-bis-dezember-2017) - [Datenlizenz Deutschland Namensnennung](http://www.govdata.de/dl-de/by-2-0)

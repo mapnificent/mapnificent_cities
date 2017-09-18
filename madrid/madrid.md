@@ -1,6 +1,6 @@
 ---
 added: '2011-08-18T14:42:21.696707'
-changed: '2017-08-25T15:32:00.205801'
+changed: '2017-09-18T09:22:54.529038'
 cityid: madrid
 cityname: Madrid
 coordinates:
@@ -17,14 +17,14 @@ gtfs:
     tf_feed_id: consorcio-regional-de-transportes-de-madrid/743
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/consorcio-regional-de-transportes-de-madrid/743/20170526/gtfs.zip
   emt-madrid-212:
-    sha256: 4e4e03ef96bf8186484c60865ff37b1b9e35eabd654fd68d7da6272723634b3e
+    sha256: 4c7476ac26c4aa0982475667884ece5346114568318a605c83699e292e309a3f
     tf_feed_id: emt-madrid/212
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/emt-madrid/212/20170727/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/emt-madrid/212/20170913/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 525000
 tf_location_ids:
 - 167-madrid-spain
-version: 1
+version: 2
 zoom: 12
 ---
 

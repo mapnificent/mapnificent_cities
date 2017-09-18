@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T21:46:20.137915'
-changed: '2017-08-25T15:58:09.427030'
+changed: '2017-09-18T10:35:55.812618'
 cityid: cleveland
 cityname: Cleveland
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 112000
 tf_location_ids:
 - 171-cleveland-oh-usa
-version: 1
+version: 2
 zoom: 12
 ---
 

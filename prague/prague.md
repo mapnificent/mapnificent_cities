@@ -20,5 +20,5 @@ version: 1
 zoom: 11
 ---
 
-(c) [Dopravní podnik hl. m. Prahy a.s.](http://http://www.dpp.cz)
+(c) [Dopravní podnik hl. m. Prahy a.s.](http://www.dpp.cz)
 ([Terms of Use](http://opendefinition.org/licenses/cc-zero/))

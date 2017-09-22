@@ -9,7 +9,7 @@ coordinates:
 gtfs:
   nuernberg:
     sha256: d94df365ce043a0f3816ee2c02643c68fa1b281557c4d9187b5a367bc14884de
-    url: https://www.vgn.de/opendata/Export%20alle%20VGN-Lin_2017-09-15.zip
+    url: https://www.vgn.de/opendata/gtfs.zip
 version: 1
 zoom: 13
 ---

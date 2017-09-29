@@ -10,6 +10,8 @@ gtfs:
   karlsruhe:
     sha256: e741d3253b2afc76a6d847c9b126897c81ddbb1558807de2ffe6291c41cd9f20
     url: http://213.144.24.66/GTFS/google_transit.zip
+options:
+  maxWalkTravelTime: 10800
 version: 1
 zoom: 12
 ---

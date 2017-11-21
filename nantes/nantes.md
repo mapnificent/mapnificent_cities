@@ -1,22 +1,19 @@
 ---
 added: '2011-11-23T11:46:48.550152'
-changed: '2017-08-25T15:23:54.216150'
+changed: '2017-11-21T11:51:23.045213'
 cityid: nantes
 cityname: Nantes
 coordinates:
 - -1.553621
 - 47.218371
-description: ''
+description: Nantes is a city in western France on the Loire River, 50 km (31 mi) from the Atlantic coast
 gtfs:
-  semitan-592:
-    sha256: d2e228b2b5d7f27255f53c389cd15e0302d401b6139e24a14385454e2479d8c7
-    tf_feed_id: semitan/592
-    url: https://api.transitfeeds.com/v1/getLatestFeedVersion?key=6fbe365a-00b6-4810-a2bc-eaa4be57040c&feed=semitan%2F592
+  open-data-nantes:
+    sha256: c98840e8fed0d424778744826463e306597bfa56bdc30bfc8841ab401b10cfd8
+    url: http://data.nantes.fr/fileadmin/data/datastore/nm/mobilite/24440040400129_NM_TAN_00005/ARRETS_HORAIRES_CIRCUITS_TAN_gtfs.zip
 options:
   estimatedMaxCalculateCalls: 55000
-tf_location_ids:
-- 441-nantes-france
-version: 1
+version: 5
 zoom: 12
 ---
 

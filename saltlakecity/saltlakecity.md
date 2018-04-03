@@ -1,6 +1,6 @@
 ---
 added: '2011-02-08T23:15:59.652848'
-changed: '2017-08-25T14:25:24.196775'
+changed: '2018-04-03T13:17:47.226528'
 cityid: saltlakecity
 cityname: Salt Lake City
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   utah-transportation-authority-59:
-    sha256: cf1f17d1dc53ee7d749a371a2a6511898ab87b14c34bedbcdc256a59099f56ff
+    sha256: 34de721cd11ae30358044ee5f4f4b61c9e6970fcdd6803a4ea2fe8639a054108
     tf_feed_id: utah-transportation-authority/59
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/utah-transportation-authority/59/20170803/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/utah-transportation-authority/59/20180331/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 250000
 tf_location_ids:
 - 90-salt-lake-city-ut-usa
-version: 1
+version: 2
 zoom: 12
 ---
 

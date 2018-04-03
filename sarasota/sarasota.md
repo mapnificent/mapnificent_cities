@@ -1,6 +1,6 @@
 ---
 added: '2011-02-08T23:08:44.617346'
-changed: '2017-08-25T14:04:02.840700'
+changed: '2018-04-03T12:55:44.187442'
 cityid: sarasota
 cityname: Sarasota
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 270000
 tf_location_ids:
 - 284-sarasota-fl-usa
-version: 1
+version: 2
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2017-09-21T16:55:59.735703'
-changed: '2017-09-21T16:55:59.735703'
+changed: '2018-04-03T13:08:09.606745'
 cityid: prague
 cityname: Prague
 coordinates:
@@ -13,12 +13,12 @@ gtfs:
     tf_feed_id: bean-shuttle/812
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/bean-shuttle/812/20170314/gtfs.zip
   praha-801:
-    sha256: 2c7820464ddd74596d3c01be974f53ebfdb384e0aad1eae1114c7b178f7bdd7e
+    sha256: 794b9fd0d947fe54df89a15876f68f7cceb50cb30a41ff17111eca836ef8a712
     tf_feed_id: praha/801
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/praha/801/20170914/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/praha/801/20180402-2/gtfs.zip
 tf_location_ids:
 - 588-prague-czechia
-version: 2
+version: 3
 zoom: 11
 ---
 

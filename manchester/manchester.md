@@ -1,6 +1,6 @@
 ---
 added: '2011-05-12T13:10:43.899117'
-changed: '2017-08-25T15:29:13.279347'
+changed: '2018-04-03T13:10:48.457153'
 cityid: manchester
 cityname: Greater Manchester
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   transport-for-greater-manchester-224:
-    sha256: 6594fdd50868dd1b6c0ae21a16a04811ae5f0c8fc6ea02e73d2d1828c414dbf9
+    sha256: a9d13079bd940ca275b8d63edaf89e3bdeb7aaf8bfb61c953831dee002ceb470
     tf_feed_id: transport-for-greater-manchester/224
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/transport-for-greater-manchester/224/20170725/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/transport-for-greater-manchester/224/20180330/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 5500000
 tf_location_ids:
 - 179-manchester-uk
-version: 1
+version: 2
 zoom: 12
 ---
 

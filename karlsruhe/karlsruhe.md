@@ -1,6 +1,6 @@
 ---
 added: '2017-09-15T14:36:08.626159'
-changed: '2017-09-15T14:36:08.626159'
+changed: '2018-04-03T12:48:02.079902'
 cityid: karlsruhe
 cityname: Karlsruhe
 coordinates:
@@ -8,11 +8,11 @@ coordinates:
 - 49.00921
 gtfs:
   karlsruhe:
-    sha256: e741d3253b2afc76a6d847c9b126897c81ddbb1558807de2ffe6291c41cd9f20
+    sha256: ed498d254abb86036351e7c2315a1f506e838c0832849eec52703957582047cc
     url: http://213.144.24.66/GTFS/google_transit.zip
 options:
   maxWalkTravelTime: 10800
-version: 1
+version: 2
 zoom: 12
 ---
 

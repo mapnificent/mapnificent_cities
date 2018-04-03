@@ -1,6 +1,6 @@
 ---
 added: '2011-06-02T16:36:28.422482'
-changed: '2017-08-25T11:35:10.401562'
+changed: '2018-04-03T13:07:50.322594'
 cityid: winnipeg
 cityname: Winnipeg
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   winnipeg-transit-23:
-    sha256: 0ce1f7dc497c4ce711641087b94258b014b866402e98bb62ffdcc1be826a9ec1
+    sha256: 977f40c8114e0a74a629d5829c7c4c542c530bcbb6dfa2487ed3c49654e5c5be
     tf_feed_id: winnipeg-transit/23
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/winnipeg-transit/23/20170824/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/winnipeg-transit/23/20180331/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 940000
 tf_location_ids:
 - 34-winnipeg-mb-canada
-version: 1
+version: 2
 zoom: 12
 ---
 

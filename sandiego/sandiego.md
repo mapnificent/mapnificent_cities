@@ -1,6 +1,6 @@
 ---
 added: '2010-10-24T22:40:02.831184'
-changed: '2017-08-25T14:22:02.697556'
+changed: '2018-04-03T12:25:41.934988'
 cityid: sandiego
 cityname: San Diego
 coordinates:
@@ -9,19 +9,19 @@ coordinates:
 description: ''
 gtfs:
   nctd-194:
-    sha256: d80fa82c0dd36fd02a4da013dc661639495de51184ee2de7daae5797c7208863
+    sha256: e1c084353de1f0fb10637f997c7a9e236e46a7b1f71c2a9d0317dad95b7e77f0
     tf_feed_id: nctd/194
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/nctd/194/20170530/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/nctd/194/20180402/gtfs.zip
   san-diego-mts-195:
-    sha256: 53fd93c5dfe477a2a2889b50254d2508bd4134907d3078a892a8fa51f916c667
+    sha256: d90cb6ef7507f102aa5ca9bbc6e0f6cea5e1283c3ae426bf2c7b2a6affdaf6ad
     tf_feed_id: san-diego-mts/195
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/san-diego-mts/195/20170823/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/san-diego-mts/195/20180329/gtfs.zip
 options:
   dataSize: 1145353
   estimatedMaxCalculateCalls: 155000
 tf_location_ids:
 - 155-san-diego-ca-usa
-version: 1
+version: 2
 zoom: 12
 ---
 

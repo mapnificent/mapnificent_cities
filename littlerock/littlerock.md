@@ -1,6 +1,6 @@
 ---
 added: '2012-11-10T20:01:35.760763'
-changed: '2017-08-25T15:37:33.079579'
+changed: '2018-04-03T13:17:33.479445'
 cityid: littlerock
 cityname: Little Rock, AR
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 240-little-rock-ar-usa
-version: 1
+version: 2
 zoom: 12
 ---
 

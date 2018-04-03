@@ -1,6 +1,6 @@
 ---
 added: '2012-01-13T22:54:48.955010'
-changed: '2017-05-04T22:33:22.631776'
+changed: '2018-04-03T13:07:42.141253'
 cityid: ulm
 cityname: Ulm
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 4600
 tf_location_ids:
 - 370-ulm-germany
-version: 3
+version: 4
 zoom: 13
 ---
 

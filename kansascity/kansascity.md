@@ -1,6 +1,6 @@
 ---
 added: '2010-10-07T19:24:57.270011'
-changed: '2017-08-25T15:38:13.140736'
+changed: '2018-04-03T12:39:06.714200'
 cityid: kansascity
 cityname: Kansas City
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   kansas-city-area-transportation-authority-382:
-    sha256: c43c39f4ba34fd9e24b305fb2e979bd26be029a26f73df8e3311f2b1bfe586fd
+    sha256: dc46489055f702c7861b65fd5997194e74108f9738f5cfce0a22630dac910d2c
     tf_feed_id: kansas-city-area-transportation-authority/382
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/kansas-city-area-transportation-authority/382/20170822/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/kansas-city-area-transportation-authority/382/20180331/gtfs.zip
 options:
   dataSize: 2031470
   estimatedMaxCalculateCalls: 300000
 tf_location_ids:
 - 291-kansas-city-mo-usa
-version: 2
+version: 3
 zoom: 12
 ---
 

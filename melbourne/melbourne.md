@@ -1,6 +1,6 @@
 ---
 added: '2018-02-09T09:46:32.707503'
-changed: '2018-02-09T09:46:32.707503'
+changed: '2018-04-03T12:15:05.072998'
 cityid: melbourne
 cityname: Melbourne
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   ptv-497:
-    sha256: 630be1e91e6fd34354d7740621746429a2beaa35f5f7ef911a6bff26d69f73e6
+    sha256: 44ee4c0d653f4fc460de9c4be0b3a5f67590a4c46c09450962c930e437a43ee4
     tf_feed_id: ptv/497
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ptv/497/20180202/gtfs.zip
-tf_location_ids:
-- 323
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ptv/497/20180331/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 650000
   maxWalkTravelTime: 16200
-version: 2
+tf_location_ids:
+- 323
+version: 3
 zoom: 12
 ---
 

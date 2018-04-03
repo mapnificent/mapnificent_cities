@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T20:59:00.985352'
-changed: '2017-08-25T16:07:05.537040'
+changed: '2018-04-03T12:59:01.966339'
 cityid: auckland
 cityname: Auckland
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   auckland-transport-124:
-    sha256: 0d1a5e30907aadb37345ef8c4d11102e3f52184961201c67ce1667684de625f3
+    sha256: 785fc6d09636f1dc07cf2f1db4fbfa6b57f7c679dd6a14c5d69dd466dacee941
     tf_feed_id: auckland-transport/124
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/auckland-transport/124/20170810/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/auckland-transport/124/20180314/gtfs.zip
 options:
   dataSize: 3501747
   estimatedMaxCalculateCalls: 560000
 tf_location_ids:
 - 132-auckland-new-zealand
-version: 1
+version: 2
 zoom: 12
 ---
 

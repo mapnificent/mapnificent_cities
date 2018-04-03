@@ -1,6 +1,6 @@
 ---
 added: '2017-09-15T16:15:48.154306'
-changed: '2017-09-15T16:15:48.154306'
+changed: '2018-04-03T12:24:18.992599'
 cityid: aachen
 cityname: Aachen
 coordinates:
@@ -8,9 +8,9 @@ coordinates:
 - 50.776667
 gtfs:
   aachen:
-    sha256: fefd28bdb483435d36e84b600786730dd2fb9be15a01194ac015e3b8b8dbd491
+    sha256: e0293a06125ef24235506b767d28b59c2579a1a9fdfffd2046f5984fa130eeb5
     url: https://opendata.avv.de/current_GTFS/AVV_GTFS_mit_SPNV.zip
-version: 1
+version: 2
 zoom: 12
 ---
 

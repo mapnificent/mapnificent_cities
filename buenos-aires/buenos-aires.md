@@ -1,6 +1,6 @@
 ---
 added: '2017-09-18T10:28:16.368759'
-changed: '2017-09-18T10:28:16.368759'
+changed: '2018-04-03T13:17:38.412268'
 cityid: buenos-aires
 cityname: Buenos Aires
 coordinates:
@@ -13,9 +13,8 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/subterraneos-de-buenos-aires/541/20160502/gtfs.zip
 tf_location_ids:
 - 401-buenos-aires-autonomous-city-of-buenos-aires-argentina
-version: 1
+version: 2
 zoom: 12
-
 ---
 
 (c) [Subte de Buenos Aires](http://www.buenosaires.gob.ar/subte)

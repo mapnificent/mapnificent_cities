@@ -1,6 +1,6 @@
 ---
 added: '2011-02-09T00:12:32.567266'
-changed: '2017-08-25T16:08:43.946834'
+changed: '2018-04-03T12:55:05.374419'
 cityid: annarbor
 cityname: Ann Arbor
 coordinates:
@@ -13,15 +13,15 @@ gtfs:
     tf_feed_id: ann-arbor-transportation-authority/147
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ann-arbor-transportation-authority/147/20170808/gtfs.zip
   university-of-michigan-parking-transportation-services-316:
-    sha256: 25783cc7db3856567136be38924fb633ead9535eb197feca3e5116941f23fc3d
+    sha256: 4391e49fcfb68a9027ffbc2fe58c232c281dca36db64dd957fcfa479c640388c
     tf_feed_id: university-of-michigan-parking-transportation-services/316
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/university-of-michigan-parking-transportation-services/316/20170510/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/university-of-michigan-parking-transportation-services/316/20180224/gtfs.zip
 options:
   calculateOnDrag: true
   estimatedMaxCalculateCalls: 36000
 tf_location_ids:
 - 136-ann-arbor-mi-usa
-version: 1
+version: 2
 zoom: 12
 ---
 

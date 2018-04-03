@@ -1,6 +1,6 @@
 ---
 added: '2017-11-14T11:12:04.990071'
-changed: '2017-11-14T11:12:04.990071'
+changed: '2018-04-03T12:09:48.146433'
 cityid: zurich
 cityname: Zürich
 coordinates:
@@ -9,9 +9,9 @@ coordinates:
 description: ''
 gtfs:
   zurich:
-    sha256: a75fb217b7e6d2e3b7572b36d4756c3ce4079d0c013c76bb4f1f55146aa59707
+    sha256: e337c0f6b0d140ec0c2a8a4d4336dae5de7525b8280d92cbd94fd7ae230a2c35
     url: https://data.stadt-zuerich.ch/dataset/eb393743-5b0d-46f1-89b1-fdfaf55ad7c0/resource/5b924fae-6a16-4e5d-91ff-fba3f0a10a13/download/2017googletransit.zip
-version: 2
+version: 3
 zoom: 12
 ---
 

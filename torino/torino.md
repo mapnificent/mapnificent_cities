@@ -1,6 +1,6 @@
 ---
 added: '2011-02-08T20:08:41.007565'
-changed: '2017-08-26T14:12:55.001891'
+changed: '2018-04-03T12:37:56.003444'
 cityid: torino
 cityname: Torino
 coordinates:
@@ -20,7 +20,7 @@ options:
   estimatedMaxCalculateCalls: 1452000
 tf_location_ids:
 - 79-turin-italy
-version: 1
+version: 2
 zoom: 12
 ---
 

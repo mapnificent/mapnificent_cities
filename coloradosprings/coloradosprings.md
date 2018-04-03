@@ -1,6 +1,6 @@
 ---
 added: '2011-03-04T12:17:02.679759'
-changed: '2017-08-25T15:57:26.737495'
+changed: '2018-04-03T12:48:13.375017'
 cityid: coloradosprings
 cityname: Colorado Springs
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 55000
 tf_location_ids:
 - 282-colorado-springs-co-usa
-version: 1
+version: 2
 zoom: 12
 ---
 

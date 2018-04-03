@@ -1,4 +1,6 @@
 ---
+added: '2018-04-03T20:26:30.530605'
+changed: '2018-04-03T20:26:30.530605'
 cityid: genova
 cityname: genova
 coordinates:
@@ -6,8 +8,9 @@ coordinates:
 - 44.40747
 gtfs:
   amt-genova:
+    sha256: 53cc5b8b6f0dae98946319eb39797ba1cf8f9503439e0119f3666a384f513419
     url: http://opendatagoogletransit.comune.genova.it/downloads/google_transit.zip
-version: 1
+version: 2
 zoom: 12
 ---
 

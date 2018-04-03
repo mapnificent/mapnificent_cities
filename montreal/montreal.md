@@ -78,6 +78,7 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/societe-de-transport-de-montreal/39/20180326/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 1207000
+  maxWalkTravelTime: 10800
 tf_location_ids:
 - 56-montreal-qc-canada
 version: 5

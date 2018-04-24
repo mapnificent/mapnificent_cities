@@ -1,25 +1,19 @@
 ---
-active: true
 added: '2012-07-30T09:18:27.513310'
-changed: '2014-05-23T12:15:48.713483'
+changed: '2019-04-24T12:15:48.713483'
 cityid: saopaulo
 cityname: São Paulo
-description: ''
-hidden: false
-lat: -23.5489433
-lng: -46.6388182
-northwest:
-  lat: -23.180129
-  lng: -46.987272
+coordinates:
+  - -46.6388182
+  - -23.5489433
+gtfs:
+  yuribt-636596416707878745:
+    sha256: ac1567da013e151d92be4d21501ee6c2b655dba0ad2ef2a962001b2b3f3ee5bb
 options:
-  estimatedMaxCalculateCalls: 750000
-  maxWalkTravelTime: 14400
-southeast:
-  lat: -23.912182
-  lng: -46.184445
+  maxWalkTravelTime: 10800
 version: 2
 zoom: 12
 
 ---
 
-(c) [City of São Paulo](http://www.prefeitura.sp.gov.br/cidade/secretarias/transportes/)
+(c) [City of São Paulo / Secretaria Municipal de Mobilidade e Transportes](http://www.prefeitura.sp.gov.br/cidade/secretarias/transportes/) / [SPTrans](http://sptrans.com.br/desenvolvedores/)

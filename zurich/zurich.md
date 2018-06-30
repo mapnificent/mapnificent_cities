@@ -9,11 +9,10 @@ coordinates:
 description: ''
 gtfs:
   zurich:
-    sha256: e337c0f6b0d140ec0c2a8a4d4336dae5de7525b8280d92cbd94fd7ae230a2c35
-    url: https://data.stadt-zuerich.ch/dataset/eb393743-5b0d-46f1-89b1-fdfaf55ad7c0/resource/5b924fae-6a16-4e5d-91ff-fba3f0a10a13/download/2017googletransit.zip
-version: 3
+    sha256: daf2a129f590460d05bd5fca8e3dd58703433e32632a6224ad427e9fa2d7ba35
+    url: https://opentransportdata.swiss/en/dataset/timetable-2018-gtfs/permalink
+version: 4
 zoom: 12
 ---
 
-(c) [Zürcher Verkehrsverbund](http://www.zvv.ch/)
-([CC Zero](https://creativecommons.org/publicdomain/zero/1.0/))
+[ToS](https://opentransportdata.swiss/en/terms-of-use/)

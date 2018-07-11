@@ -9,7 +9,7 @@ coordinates:
 description: 'The GTFS file has been created from VDV452 format using onebusaway-vdv-modules (https://github.com/OneBusAway/onebusaway-vdv-modules).'
 gtfs:
   bolzano:
-    sha256: 74ad1a66ace9bb28124bddc521ff23278c5174f9499d531bd99a84d152ce59c3
+    sha256: 8bed58aa4573d031803dc17ca77853c5723887daa7ba7c1af2eecc8c73cf75bf
     url: http://sasabus.org/opendata
 version: 1
 zoom: 13

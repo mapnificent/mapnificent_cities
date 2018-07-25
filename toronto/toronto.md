@@ -1,6 +1,6 @@
 ---
 added: '2010-10-10T11:13:21.198117'
-changed: '2018-04-03T13:04:52.915348'
+changed: '2018-07-25T08:17:32.678678'
 cityid: toronto
 cityname: Toronto/Hamilton
 coordinates:
@@ -9,21 +9,21 @@ coordinates:
 description: ''
 gtfs:
   go-transit-32:
-    sha256: a572d00b62042c18a0f60b520e52c7efb03daaf55bdaa633fa91be6e4f183cf8
+    sha256: 19d64ad1139c5254c3635f2899c02b7a3976913db12c4e8d540c295fbb50a72b
     tf_feed_id: go-transit/32
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/32/20180324/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/32/20180717/gtfs.zip
   go-transit-543:
-    sha256: 79bb35c6e758d103e80517f456663c406b42f509d95f6916a93fc86f5ed7d122
+    sha256: 445f82a1388c30cd4e6ab06cffad7d96722162205fb2571669fa7cda57c28673
     tf_feed_id: go-transit/543
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/543/20180319/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/543/20180717/gtfs.zip
   hamilton-street-railway-31:
-    sha256: 81aa09b04de9542a2778c1b06b8ba0ae98ea0fcb3bdb68ff6b17304f8b2425d0
+    sha256: 1d9be201ab4fdec6b569ddd0fbd5787deb5f2a75fbe6f0cb4007f56f31da1963
     tf_feed_id: hamilton-street-railway/31
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/hamilton-street-railway/31/20171213/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/hamilton-street-railway/31/20180618/gtfs.zip
   ttc-33:
-    sha256: 4c5d2bf0c3c155f535b76471e8de33629e7e51117605f7a15c90e94cfb5d9f32
+    sha256: 87a8c9eff09ac7b2c89cd02ef74d2cc89d48ced684292bd29255564b885eafbc
     tf_feed_id: ttc/33
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ttc/33/20180328/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ttc/33/20180618/gtfs.zip
 options:
   defaultStartAtPosition:
     lat: 43.66389797397276
@@ -33,7 +33,7 @@ options:
 tf_location_ids:
 - 49-toronto-on-canada
 - 48-hamilton-on-canada
-version: 7
+version: 8
 zoom: 9
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2012-05-23T10:23:35.145719'
-changed: '2018-04-03T12:55:49.669212'
+changed: '2018-07-25T07:56:22.149807'
 cityid: newsouthwales
 cityname: New South Wales
 coordinates:
@@ -9,9 +9,9 @@ coordinates:
 description: "<h3>Warning</h3>\r\n<p>This map requires a lot of data and computing power.<br/><a href=\"/sydney/\">Try the smaller and faster Sydney map!</a></p>"
 gtfs:
   byron-easybus-737:
-    sha256: 7aa8c301e8ffc96dac8f3e231e1ac8caae5502f25cc06faf87721c1595f6705b
+    sha256: d549de7afbed4f0005216c4d4d3330c00dc5e5575d3e38f0923a6a6376e9ac56
     tf_feed_id: byron-easybus/737
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/byron-easybus/737/20171003/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/byron-easybus/737/20180412/gtfs.zip
   transport-for-nsw-237:
     sha256: bdc9d9198e12e34e8e6ba20558369b421255cafc28fd38ca0cb8365218edd8a3
     tf_feed_id: transport-for-nsw/237
@@ -21,7 +21,7 @@ options:
   estimatedMaxCalculateCalls: 16000000
 tf_location_ids:
 - 113-new-south-wales-australia
-version: 2
+version: 3
 zoom: 10
 ---
 

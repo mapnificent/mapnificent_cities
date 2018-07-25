@@ -1,6 +1,6 @@
 ---
 added: '2018-03-06T15:09:05.713266'
-changed: '2018-04-03T14:35:01.216941'
+changed: '2018-07-25T08:19:11.778502'
 cityid: turku
 cityname: Turku
 coordinates:
@@ -8,16 +8,16 @@ coordinates:
 - 60.45451
 gtfs:
   city-of-turku-730:
-    sha256: 8cb32f7dfd50bd2cde30f9a587e5a7430916bc6ea31d0b1022e3df82387572cd
+    sha256: 3ba0dbb9e6f354f4eb04114f7a80b527f214000d8ce4df6fe28695ee1c4b4c0b
     tf_feed_id: city-of-turku/730
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-turku/730/20180319/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-turku/730/20180710/gtfs.zip
   turku:
-    sha256: 8cb32f7dfd50bd2cde30f9a587e5a7430916bc6ea31d0b1022e3df82387572cd
+    sha256: 3ba0dbb9e6f354f4eb04114f7a80b527f214000d8ce4df6fe28695ee1c4b4c0b
     tf_feed_id: city-of-turku/730
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-turku/730/20180319/gtfs.zip
 tf_location_ids:
 - 534-turku-finland
-version: 2
+version: 3
 zoom: 12
 ---
 

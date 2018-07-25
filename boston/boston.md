@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T23:28:44.636732'
-changed: '2018-04-03T12:50:03.860049'
+changed: '2018-07-25T07:32:42.807093'
 cityid: boston
 cityname: Boston
 coordinates:
@@ -9,19 +9,19 @@ coordinates:
 description: ''
 gtfs:
   mbta-64:
-    sha256: 3ec0a6beab37b9621d3056a020eaa88e97a3fda4936c1de121b414b76aa1ee33
+    sha256: d1cd87ea6a2df30ea95316b82ac5570968a7eb0f93162efcbf6829bf4e216f61
     tf_feed_id: mbta/64
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/mbta/64/20180331/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/mbta/64/20180721/gtfs.zip
   national-park-service-617:
-    sha256: f1959b65cf65b661dabaf950f447830d39f04eff3944c3808559366c9451bfe5
+    sha256: b662c77067aac46c6c4acc6deb5af8abef89eea301c2e850d65a9a74bba46185
     tf_feed_id: national-park-service/617
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/national-park-service/617/20170822/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/national-park-service/617/20180519/gtfs.zip
 options:
   dataSize: 2346483
   estimatedMaxCalculateCalls: 530000
 tf_location_ids:
 - 93-boston-ma-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

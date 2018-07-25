@@ -1,6 +1,6 @@
 ---
 added: '2013-05-14T16:39:43.214563'
-changed: '2018-04-03T12:23:05.140281'
+changed: '2018-07-25T07:39:59.572471'
 cityid: dublin
 cityname: Dublin
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   transport-for-ireland-782:
-    sha256: af7d52a6f5ce1bf9bb6bc34b1654e14db6d922c85d268a4e6079e37658d11b51
+    sha256: c863aafb92cb141f48f131fdd9f27e4d88833622aa8f2958d3f4283072d20694
     tf_feed_id: transport-for-ireland/782
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/transport-for-ireland/782/20180327/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/transport-for-ireland/782/20180706/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 2100000
 tf_location_ids:
 - 579-dublin-ireland
-version: 2
+version: 3
 zoom: 12
 ---
 

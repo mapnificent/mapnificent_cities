@@ -1,6 +1,6 @@
 ---
 added: '2011-06-10T14:31:18.289940'
-changed: '2018-04-03T11:57:39.109847'
+changed: '2018-07-25T07:50:05.145877'
 cityid: montreal
 cityname: Montréal
 coordinates:
@@ -25,9 +25,9 @@ gtfs:
     tf_feed_id: agence-metropolitaine-de-transport/131
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/131/20180330/gtfs.zip
   agence-metropolitaine-de-transport-132:
-    sha256: 6e13022fa52c6b4b0038b03a325f2b6618fc9ba3aaa111d7dffa655d69777877
+    sha256: 4c248e4b30819dc56e502b8296e027c0951da65d991c41f65ddce9a743b74b20
     tf_feed_id: agence-metropolitaine-de-transport/132
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/132/20180402/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/132/20180409/gtfs.zip
   agence-metropolitaine-de-transport-133:
     sha256: 6b2f0277ed68e92efdb078ffbc820599e616edf3b565f0d29263a782a715f82c
     tf_feed_id: agence-metropolitaine-de-transport/133
@@ -41,9 +41,9 @@ gtfs:
     tf_feed_id: agence-metropolitaine-de-transport/135
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/135/20180320/gtfs.zip
   agence-metropolitaine-de-transport-136:
-    sha256: 00620db5fd8d279d880dbc940507e72d436d8968be287224b39858a316a770ac
+    sha256: b054adf74c0cee668b9325c7d0af15ea5373a20cc5eb5ed9e752669c39b30db0
     tf_feed_id: agence-metropolitaine-de-transport/136
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/136/20180320/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/136/20180403/gtfs.zip
   agence-metropolitaine-de-transport-137:
     sha256: 1852a71bac7e5e01789e1d740ab101238a4e00f0b8614716ac758d6291a8dd55
     tf_feed_id: agence-metropolitaine-de-transport/137
@@ -69,19 +69,19 @@ gtfs:
     tf_feed_id: agence-metropolitaine-de-transport/142
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/142/20180125/gtfs.zip
   agence-metropolitaine-de-transport-143:
-    sha256: c762c6d49ee44b45d5f5ea6dffcb20b7db32ed84fea5ad3021d45b740793c4ee
+    sha256: db903add6adde01b317447639818a94a874b80c7de3fe6f8b27a944ec38ec056
     tf_feed_id: agence-metropolitaine-de-transport/143
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/143/20180311/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/143/20180405/gtfs.zip
   societe-de-transport-de-montreal-39:
-    sha256: 2c233101be0fa708c73b67ef2c05c723aaca2b3a621b29cb0ad5872f880fd910
+    sha256: 27bd149afebec364be0fba6c6b19804c692888e04db933896d070ce83f95e4f6
     tf_feed_id: societe-de-transport-de-montreal/39
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/societe-de-transport-de-montreal/39/20180326/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/societe-de-transport-de-montreal/39/20180613/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 1207000
   maxWalkTravelTime: 10800
 tf_location_ids:
 - 56-montreal-qc-canada
-version: 5
+version: 6
 zoom: 11
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2017-08-26T18:32:14.551201'
-changed: '2018-04-03T13:18:10.785824'
+changed: '2018-07-25T08:20:34.174537'
 cityid: warsaw
 cityname: Warsaw
 coordinates:
@@ -12,9 +12,9 @@ gtfs:
     tf_feed_id: koleje-mazowieckie/789
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/koleje-mazowieckie/789/20170115/gtfs.zip
   komunikacja-miejska-omianki-723:
-    sha256: 56b2637ce914a94c85e0be9b5e7d10000879b4ddbcfa6fc1e64aeeafa4bcc7b3
+    sha256: 43d5dae2bb6d1632b5b76243728d730d3d60b15f6f75833c516eb215453978fe
     tf_feed_id: komunikacja-miejska-omianki/723
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/komunikacja-miejska-omianki/723/20180116/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/komunikacja-miejska-omianki/723/20180419/gtfs.zip
   metro-warszawskie-721:
     sha256: ba6e0f0072ab3eaa6bde9bfc8518c8d34ddc91227830aeadd7770acfbcfca4ed
     tf_feed_id: metro-warszawskie/721
@@ -28,12 +28,12 @@ gtfs:
     tf_feed_id: warszawska-kolej-dojazdowa/722
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/warszawska-kolej-dojazdowa/722/20170917/gtfs.zip
   ztm-warszawa-720:
-    sha256: de9440278e665a267feb62ed455939e2a316f8bb6bedb7e629c3a99e2306ce72
+    sha256: 024132a5e2bd1414ae07b9a68aa5e7c7e5252023c2b2859d180a229a78e16713
     tf_feed_id: ztm-warszawa/720
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ztm-warszawa/720/20180401/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ztm-warszawa/720/20180724-2/gtfs.zip
 tf_location_ids:
 - 518-warsaw-poland
-version: 2
+version: 3
 zoom: 12
 ---
 

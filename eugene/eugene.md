@@ -1,6 +1,6 @@
 ---
 added: '2011-01-13T12:17:00.733389'
-changed: '2018-04-03T12:47:12.610080'
+changed: '2018-07-25T07:40:41.262315'
 cityid: eugene
 cityname: Eugene
 coordinates:
@@ -9,25 +9,25 @@ coordinates:
 description: ''
 gtfs:
   cascade-point-441:
-    sha256: 6261a7c5a86701548b84131e3c0e1b3c4bc7548451ab4428edc18de95fc97c6f
+    sha256: 2e65114ecc2cc07db8b2a0e5fe113c8f40596d9cd09412cd3fa289b64a6dbdd1
     tf_feed_id: cascade-point/441
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/cascade-point/441/20180112/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/cascade-point/441/20180712/gtfs.zip
   city-2-city-shuttle-772:
     sha256: 8c7ff0ece5379cb8535a7ad30ea50fad46a95f00d3b51a0777e980033e7ac6e8
     tf_feed_id: city-2-city-shuttle/772
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-2-city-shuttle/772/20170926/gtfs.zip
   lane-transit-district-314:
-    sha256: 8bdcdd925f771509e812af1a78eb847b380d0bffa666abca9194a04f3c06796f
+    sha256: e4c7d6a109f2c1d137efa8585c9b3410e16e8e642c0b483cc5fa449f2a4f05d3
     tf_feed_id: lane-transit-district/314
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/lane-transit-district/314/20180124/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/lane-transit-district/314/20180609/gtfs.zip
   pacific-crest-bus-lines-910:
-    sha256: 53888db00159a97f950e9e556dcfad111706dd1fbfdb166b0339c46b37e7262b
+    sha256: 1544ff27fbafae78e19d6ffec4684e14a7c2babba748d7818f4635cd65d6a79a
     tf_feed_id: pacific-crest-bus-lines/910
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/pacific-crest-bus-lines/910/20180330/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/pacific-crest-bus-lines/910/20180716/gtfs.zip
   tac-transportation-464:
-    sha256: 53888db00159a97f950e9e556dcfad111706dd1fbfdb166b0339c46b37e7262b
+    sha256: 1544ff27fbafae78e19d6ffec4684e14a7c2babba748d7818f4635cd65d6a79a
     tf_feed_id: tac-transportation/464
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/tac-transportation/464/20180326/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/tac-transportation/464/20180716/gtfs.zip
   tac-transportation-465:
     sha256: 55586459e40c8a49f8e4bda456251ea741a78b80b227ae0a209d134de7960b3c
     tf_feed_id: tac-transportation/465
@@ -37,7 +37,7 @@ options:
   estimatedMaxCalculateCalls: 3500
 tf_location_ids:
 - 225-eugene-or-usa
-version: 2
+version: 3
 zoom: 12
 ---
 

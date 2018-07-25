@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T19:39:56.000124'
-changed: '2018-04-03T12:51:59.851448'
+changed: '2018-07-25T07:46:26.301466'
 cityid: losangeles
 cityname: Los Angeles
 coordinates:
@@ -9,27 +9,27 @@ coordinates:
 description: ''
 gtfs:
   la-metro-184:
-    sha256: bfe07b21add55036870002b2e4466395a5e9063769fe99c6735f55ea78a8cd7e
+    sha256: ba25d6715655b22941e15d8a2540f969a00a1a3e65ae15fcbdebf55614e7044a
     tf_feed_id: la-metro/184
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/184/20180220/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/184/20180627/gtfs.zip
   la-metro-677:
-    sha256: 1b7ae74b1a2eb17730bac8bf9c66bda8c56bcaded296902f0c28f6bb81bc3d91
+    sha256: da315cd2e56c60a12627cdf493c6e18cd7bad7d11d377fe5a7dec2c624cadd49
     tf_feed_id: la-metro/677
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/677/20180331/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/677/20180724/gtfs.zip
   ladot-transit-services-303:
     sha256: ba42d8e9be26d4d71c248e487fdf362c87659ce8475cc51280788fedd1fed186
     tf_feed_id: ladot-transit-services/303
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ladot-transit-services/303/20180227/gtfs.zip
   metrolink-332:
-    sha256: 199639a974ed03559a738909920c98de71b8a49cafdb28c4b85dd440fad9597f
+    sha256: 406d993fd99df49ecaab52fa8fa6e5f1eee039abe041d8fc95782e5ab4859f4a
     tf_feed_id: metrolink/332
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metrolink/332/20171009/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metrolink/332/20180610/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 500000
   maxWalkTravelTime: 14400
 tf_location_ids:
 - 154-los-angeles-ca-usa
-version: 7
+version: 8
 zoom: 12
 ---
 

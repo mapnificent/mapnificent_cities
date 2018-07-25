@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T21:03:16.976010'
-changed: '2018-04-03T12:58:39.900059'
+changed: '2018-07-25T08:08:16.255259'
 cityid: perth
 cityname: Perth
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   transperth-2:
-    sha256: c3466b18d0478d6ee2bfd3f34d25d5731807fc58cf859f278d5b9d601f5c518f
+    sha256: c13f2aa6591932e9f6bf0b7e291e274098854f74d93ea5b535b1a5bbd042ebca
     tf_feed_id: transperth/2
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/transperth/2/20180328/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/transperth/2/20180719/gtfs.zip
 options:
   dataSize: 3182293
   estimatedMaxCalculateCalls: 570000
 tf_location_ids:
 - 6-perth-wa-australia
-version: 2
+version: 3
 zoom: 12
 ---
 

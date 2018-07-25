@@ -1,6 +1,6 @@
 ---
 added: '2017-09-15T23:54:44.859554'
-changed: '2018-04-03T12:52:38.801340'
+changed: '2018-07-25T07:35:06.933273'
 cityid: budapest
 cityname: Budapest
 coordinates:
@@ -9,12 +9,12 @@ coordinates:
 description: Budapest
 gtfs:
   bkk-42:
-    sha256: 2163ef18877596ed53f4abf10639ce134c53bd8dccb6dbe2bc97fb948d1fa5a6
+    sha256: 0bfcaef4716a8245aee229593655d84ab7d0320a5e0b0b2b6929f75c4ff8a4ef
     tf_feed_id: bkk/42
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/bkk/42/20180401/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/bkk/42/20180723/gtfs.zip
 tf_location_ids:
 - 62-budapest-hungary
-version: 3
+version: 4
 zoom: 12
 ---
 

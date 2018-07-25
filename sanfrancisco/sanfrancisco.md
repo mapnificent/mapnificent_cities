@@ -1,6 +1,6 @@
 ---
 added: '2010-10-03T12:27:52.111807'
-changed: '2018-04-03T13:10:03.618203'
+changed: '2018-07-25T08:12:03.193961'
 cityid: sanfrancisco
 cityname: San Francisco
 coordinates:
@@ -9,43 +9,47 @@ coordinates:
 description: ''
 gtfs:
   bart-58:
-    sha256: 2a5ec3f45efd2e49498eb6305ec1708612d942bd1dd7cd2ecae65b0e7b030ff3
+    sha256: f05a15571f371cb2bc29ff8bc519f4a9f47cd1210e213b135782865efc6d1411
     tf_feed_id: bart/58
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/bart/58/20180222/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/bart/58/20180611/gtfs.zip
   blue-gold-fleet-824:
-    sha256: c4b5ef8b930a802afa2882276c6e87088c3e20c0ce3818f45c32e9a58dbd22bd
+    sha256: 62675d7ba4bd9058f275e6eabed0c863e4ff7e3adb801331b047fb5f6287e6e7
     tf_feed_id: blue-gold-fleet/824
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/blue-gold-fleet/824/20180402/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/blue-gold-fleet/824/20180723/gtfs.zip
   caltrain-122:
-    sha256: d54438e21d4bb2c0590114f3b1f90013539d3ff7c03649a24ce96ad73db8d8cf
+    sha256: 977a96a955c54b3f6d4c74e4984b0c1b6f626f8d6439953bb309f67d83634697
     tf_feed_id: caltrain/122
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/caltrain/122/20180329/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/caltrain/122/20180613/gtfs.zip
   golden-gate-bridge-highway-transportation-district-344:
-    sha256: 85bc6fed686c5c909d74e5dba5c510948cafe8a1c919e29d492e15abbeb183ea
+    sha256: 04a4fd1bda34277f18c983832a56cfc83a5054980b3570b9d7346e21101e3d3c
     tf_feed_id: golden-gate-bridge-highway-transportation-district/344
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/golden-gate-bridge-highway-transportation-district/344/20180331/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/golden-gate-bridge-highway-transportation-district/344/20180724/gtfs.zip
   golden-gate-bridge-highway-transportation-district-349:
-    sha256: 741514dc5e32eb78857c4d8c299963c3b27a033378506a91e7e98fcc97aa37fb
+    sha256: 3d93ab87ea73b7db71b07f2cc8c1043bcf152be183824ff9b1cb1e491f7fbf06
     tf_feed_id: golden-gate-bridge-highway-transportation-district/349
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/golden-gate-bridge-highway-transportation-district/349/20180319/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/golden-gate-bridge-highway-transportation-district/349/20180627/gtfs.zip
   samtrans-144:
-    sha256: 695a7e7605145157150b4714fcdf9fe2b5e602c913f781a0297b1fff716eb888
+    sha256: 790ec6cde8e891999b67f052732e3f7ccb64850683a891cf163c890cb4a8bfb5
     tf_feed_id: samtrans/144
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/samtrans/144/20180208/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/samtrans/144/20180718/gtfs.zip
   sfmta-60:
-    sha256: bed305496dbf17eb55eb5a865d0afe6fa31ca843d4e654ac1a45f7fd5ddd8ff6
+    sha256: 76b1ab25684d3481fb7f7a9a63adb2f1af01d1f37b1d9b04ff8af78e481a8641
     tf_feed_id: sfmta/60
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sfmta/60/20171026/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sfmta/60/20180718/gtfs.zip
+  sfmta-942:
+    sha256: 76b1ab25684d3481fb7f7a9a63adb2f1af01d1f37b1d9b04ff8af78e481a8641
+    tf_feed_id: sfmta/942
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sfmta/942/20180718/gtfs.zip
   tideline-water-taxi-756:
-    sha256: adf25e7a4e76b9aa68fc815ef22985855190e83296feea050585b7f97e23ea39
+    sha256: 18c5545a19da6f85145ff66f838139fbfc8a6c8d9be11ccec22f73f5bd18f8b7
     tf_feed_id: tideline-water-taxi/756
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/tideline-water-taxi/756/20180319/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/tideline-water-taxi/756/20180612/gtfs.zip
 hidden: true
 options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 68-san-francisco-ca-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

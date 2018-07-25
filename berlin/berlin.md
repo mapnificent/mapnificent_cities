@@ -1,6 +1,6 @@
 ---
 added: '2010-10-03T12:05:26.240272'
-changed: '2017-08-21T11:53:28.655151'
+changed: '2017-08-25T09:53:28.655151'
 cityid: berlin
 cityname: Berlin
 coordinates:
@@ -13,7 +13,7 @@ gtfs:
     url: http://images.vbb.de/assets/ftp/file/1262224.zip
 options:
   estimatedMaxCalculateCalls: 2100000
-version: 3
+version: 4
 zoom: 11
 ---
 

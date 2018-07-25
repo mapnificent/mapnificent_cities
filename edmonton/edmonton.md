@@ -1,6 +1,6 @@
 ---
 added: '2011-01-03T19:48:09.712684'
-changed: '2018-04-03T12:22:35.462509'
+changed: '2018-07-25T07:40:25.878939'
 cityid: edmonton
 cityname: Edmonton
 coordinates:
@@ -9,18 +9,18 @@ coordinates:
 description: ''
 gtfs:
   edmonton-transit-system-27:
-    sha256: b38f9a37ff1a0aacb12eaa3a5f5e6fdc26c944ecf738986281acefadc133b721
+    sha256: 8416f905149e02e6945b064c0cb5561aba262b3dbc8b49151f5e5f89cca77f00
     tf_feed_id: edmonton-transit-system/27
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/edmonton-transit-system/27/20180330/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/edmonton-transit-system/27/20180713/gtfs.zip
   strathcona-county-transit-364:
-    sha256: 4fb9a96f6f657a9184c52ac4b20e792b0ca9f99c71d2eec68eb85e632fde2294
+    sha256: 5283a5f5a7154929984c4de00aea1b3c0c16716a867d9756dcd95a2d78e788e5
     tf_feed_id: strathcona-county-transit/364
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/strathcona-county-transit/364/20170619/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/strathcona-county-transit/364/20180525/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 480000
 tf_location_ids:
 - 43-edmonton-ab-canada
-version: 2
+version: 3
 zoom: 12
 ---
 

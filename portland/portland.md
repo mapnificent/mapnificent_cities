@@ -1,6 +1,6 @@
 ---
 added: '2010-10-07T19:24:57.269498'
-changed: '2018-04-03T12:40:54.500749'
+changed: '2018-07-25T08:09:02.865619'
 cityid: portland
 cityname: Portland
 coordinates:
@@ -25,13 +25,13 @@ gtfs:
     tf_feed_id: ride-connection/477
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ride-connection/477/20180323/gtfs.zip
   swan-island-evening-shuttle-484:
-    sha256: a6b23119fd152bbc9f4ea6447183d10b6a03f34fac0ad4df4db0768615cd4413
+    sha256: aa3b60c78d929aea98605ec8216d0d3891dff5f7fa73367b42dd18f0050e5971
     tf_feed_id: swan-island-evening-shuttle/484
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/swan-island-evening-shuttle/484/20180323/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/swan-island-evening-shuttle/484/20180712/gtfs.zip
   trimet-43:
-    sha256: 081ba9db462098a5c96dfddb8c83feef020155a9d05d37e2d81656eaad543da4
+    sha256: 627fcc9b307ab9fab50defb7603428d9ffcb3e6c5b49686dc2fedafb5ba7a321
     tf_feed_id: trimet/43
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trimet/43/20180328/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trimet/43/20180724/gtfs.zip
   washington-park-shuttle-758:
     sha256: 6af25dd1af967ee07da7b53db4aed3a2cc29b9f48376402377edb3f62a5f25d4
     tf_feed_id: washington-park-shuttle/758
@@ -41,7 +41,7 @@ options:
   estimatedMaxCalculateCalls: 2600000
 tf_location_ids:
 - 64-portland-or-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

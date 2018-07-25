@@ -1,6 +1,6 @@
 ---
 added: '2017-09-18T09:13:28.313295'
-changed: '2018-04-03T12:18:01.465620'
+changed: '2018-07-25T08:14:37.271463'
 cityid: sweden
 cityname: Sweden
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: Sweden
 gtfs:
   trafiklab-50:
-    sha256: 5f1dab1110a28b0470a40108c98ad68c2d8211ec912afed64e62cd1fa6a74a1e
+    sha256: b2b4234d5060e97d8a57977249e8d6bd55a4dc294ec7ea73ad56b0c12da155f8
     tf_feed_id: trafiklab/50
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trafiklab/50/20180330/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trafiklab/50/20180717/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 6000000
   maxWalkTravelTime: 43200
 tf_location_ids:
 - 77-sweden
-version: 3
+version: 4
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2011-01-15T01:28:12.695408'
-changed: '2018-04-03T12:38:56.392005'
+changed: '2018-07-25T07:41:14.453115'
 cityid: halifax
 cityname: Halifax
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   metrotransit-36:
-    sha256: 9ab4ee8991615ac5b30cb0653aa33e93e8128b2756c1f59dd1e0b7d388a09a79
+    sha256: 9107e3de460ee777ebf30f82080b8a2cd9803a13a0cc59e5185ceb65920857f7
     tf_feed_id: metrotransit/36
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metrotransit/36/20180209/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metrotransit/36/20180723/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 55000
 tf_location_ids:
 - 53-halifax-ns-canada
-version: 2
+version: 3
 zoom: 12
 ---
 

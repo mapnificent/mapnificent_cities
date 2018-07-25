@@ -1,6 +1,6 @@
 ---
 added: '2011-08-04T22:24:32.144920'
-changed: '2018-04-03T13:18:04.637735'
+changed: '2018-07-25T07:51:54.722168'
 cityid: nashville
 cityname: Nashville
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   nashville-mta-220:
-    sha256: 69305a1f4ec2d9c483e0edb60b82d68bcbc6a7717e5014de265e91f3cdff95db
+    sha256: 4391b9082fcb2601d07b8372fa4c5199b72d7d6344c9186576b6a77267d134b9
     tf_feed_id: nashville-mta/220
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/nashville-mta/220/20180403/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/nashville-mta/220/20180624/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 175-nashville-tn-usa
-version: 2
+version: 3
 zoom: 12
 ---
 

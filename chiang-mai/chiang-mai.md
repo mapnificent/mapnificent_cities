@@ -1,6 +1,6 @@
 ---
 added: '2017-09-18T10:33:42.622780'
-changed: '2018-04-03T12:55:20.771216'
+changed: '2018-07-25T07:36:46.187457'
 cityid: chiang-mai
 cityname: Chiang Mai
 coordinates:
@@ -45,7 +45,7 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/whitebus/786/20180311/gtfs.zip
 tf_location_ids:
 - 584-chiang-mai-mueang-chiang-mai-district-chiang-mai-thailand
-version: 2
+version: 3
 zoom: 12
 ---
 

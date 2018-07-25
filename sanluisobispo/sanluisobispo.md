@@ -1,6 +1,6 @@
 ---
 added: '2011-11-01T10:35:24.903350'
-changed: '2018-04-03T13:17:41.347804'
+changed: '2018-07-25T08:12:50.896456'
 cityid: sanluisobispo
 cityname: San Luis Obispo
 coordinates:
@@ -9,18 +9,18 @@ coordinates:
 description: ''
 gtfs:
   city-of-san-luis-obispo-709:
-    sha256: e612025f9dd25dae080c022eb72ebe4bd495ca5ee6cac92a45051d225c74e3f9
+    sha256: 65d28e499a3256b13d438eb2d288c2139c015bda0afc55b45aa3e683c91c07db
     tf_feed_id: city-of-san-luis-obispo/709
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-san-luis-obispo/709/20171110/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-san-luis-obispo/709/20180426/gtfs.zip
   san-luis-obispo-rta-710:
-    sha256: 1c6bb7e35a893cdf9783e137e9de9d3b0d2f738d3ba0be73e9b08146141fedb5
+    sha256: 1b5b129d2c804bc420be94c740ce8f8cd56aa83249a2ae01862d6a26f720549a
     tf_feed_id: san-luis-obispo-rta/710
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/san-luis-obispo-rta/710/20171107/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/san-luis-obispo-rta/710/20180612/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 512-san-luis-obispo-ca-usa
-version: 2
+version: 3
 zoom: 12
 ---
 

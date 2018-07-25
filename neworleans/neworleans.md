@@ -1,6 +1,6 @@
 ---
 added: '2012-06-24T13:37:04.493447'
-changed: '2018-04-03T12:25:13.093448'
+changed: '2018-07-25T07:56:14.944325'
 cityid: neworleans
 cityname: New Orleans
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   new-orleans-regional-transit-authority-336:
-    sha256: 0d6e678ad79d36694a6918104e27fb3c4c1f7487f3f61e6f6a8c0ad6aa810200
+    sha256: e52fcabc41527a9e44b0cdc196dbdb8c2cc3234e92c51e045b4b11a9ca644001
     tf_feed_id: new-orleans-regional-transit-authority/336
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/new-orleans-regional-transit-authority/336/20180105/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/new-orleans-regional-transit-authority/336/20180601/gtfs.zip
 hidden: true
 options:
   estimatedMaxCalculateCalls: 25000
 tf_location_ids:
 - 243-new-orleans-la-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

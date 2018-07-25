@@ -1,6 +1,6 @@
 ---
 added: '2010-10-03T17:18:52.638283'
-changed: '2018-04-03T12:19:59.566936'
+changed: '2018-07-25T07:57:27.839208'
 cityid: newyork
 cityname: New York
 coordinates:
@@ -9,52 +9,52 @@ coordinates:
 description: ''
 gtfs:
   bronx:
-    sha256: b9a064b908725cc5c3b803fa715641e4c8f926279c0fc0dbdfdc10af744ab173
+    sha256: 6a94b41fc20308d1b778eaa4ca88d3ead0b68991cfdafa2d2b6bbe9cedafd4e1
     url: http://web.mta.info/developers/data/nyct/bus/google_transit_bronx.zip
   brooklyn:
-    sha256: 8e51119f14756ae1a9f921be95ebcc9a594adf84d6fdb7e15004bbee53724fe9
+    sha256: 5ae1f317679edd4640e717a737ebd5871b34130984dc75e5dbb862a76274f2c0
     url: http://web.mta.info/developers/data/nyct/bus/google_transit_brooklyn.zip
   bus_company:
-    sha256: df36f4ed89afe241dcf99e5db137d12888a51d7d97bd4946cf82d50bc51aa4c3
+    sha256: d22f350716e14c4e2814f3d4834acca7ef670537e63799edfda3d9db873ff262
     url: http://web.mta.info/developers/data/busco/google_transit.zip
   cdta:
-    sha256: 18093bc31881e8a9a563434bbf2a4325dee8e320dd58203680736697cc460434
+    sha256: 92276f0dd1f4bf7c728557548fc30ae63ebee88bd0bbde9dee49c0e009ee3c8b
     url: https://www.cdta.org/schedules/google_transit.zip
   lirr:
-    sha256: 1f2f9d1ecf145a34c77ace19f33755030a9e0b794fd94741c95b21a08d4e1f42
+    sha256: 75990a4797525164f9a96a27342dd9d80be2c6413aff73bd47bcaa50ab2fc993
     url: http://web.mta.info/developers/data/lirr/google_transit.zip
   manhattan:
-    sha256: eeefddea5d673d9a0d2533e74cb889133a94ef7f7733715e921c459ca846bae1
+    sha256: 6ceab3c6312275537998f49156206055c6b941e535925d9d8524f304a99dd258
     url: http://web.mta.info/developers/data/nyct/bus/google_transit_manhattan.zip
   metronorth:
-    sha256: 03532fbcf3d3bb792c665376fe0d27cd5c13e8204d79a4e44df3737101a9ee6a
+    sha256: db1c9881de6ea95c455049c15cdd10a2cbfe3f407e14bd7da81c7b7f9da04a35
     url: http://web.mta.info/developers/data/mnr/google_transit.zip
   njtransit_bus:
     script: sh scripts/njtransit.sh rail
-    sha256: 5ee0ef08cb9767d6a1c0bf59be6019b56a3c0cbfd51061a45d53193ebe6f33d0
+    sha256: c1ba5ae59ba0b2d88079c72b33e10d2bca8c31b98411619638bf561ddb5f59af
   njtransit_rail:
     script: sh scripts/njtransit.sh rail
     sha256: af6704c4a9ea11b8a89ca63d8c4cca69b5f6d5e72a7daefce0d3869710efeabc
   path_js_us:
-    sha256: 443a163cd30eb0b26e57142b1a4db4dd7b7fb67a1f5e23a39c7fe26a81978152
+    sha256: 806a859232b92ebb10184a4700f06c4edd59d9d61d4b35aa3ebeaa2bdf7661fd
     url: http://data.trilliumtransit.com/gtfs/path-nj-us/path-nj-us.zip
   port_authority_allgeheny:
-    sha256: f8f92e26a15e83cc0779f813554a12c1b23c46bc2b684cd990aaf198c2b00ba2
+    sha256: 9249fcb51cb9da72829d3878b0eacbf3f5452c1f0d5d9c18d98487a8f4e5bb63
     url: http://www.portauthority.org/GeneralTransitFeed/general_transit_bing.zip
   queens:
-    sha256: 57e2b99698375057df0935320d0d5f2b960e3bc2d009bb48e7581c4468314a23
+    sha256: 57b44f75d30f49eae98f4517c0416c4c419ecbfe7646541f89ac4e27613e8c90
     url: http://web.mta.info/developers/data/nyct/bus/google_transit_queens.zip
   statenisland:
-    sha256: 9cfa9d856b87f12a8f0645e4370665d50d1a0eabd5c9d209f9c75d3b2f2ec2c4
+    sha256: 1e164d7b509fd50c5b283f0bfc0bb4cfa8786998ed703b6508456f6b6006f696
     url: http://web.mta.info/developers/data/nyct/bus/google_transit_staten_island.zip
   subway:
-    sha256: 5fc4bbdc7cf409c1eaaebd02cd3627159c635f4b9b58f1968ed33cbb6b0e78dc
+    sha256: ac66b8f8bf2b6e6827b5b6243293079901b8f95cd55e9dfea27aecf88d8931ac
     url: http://web.mta.info/developers/data/nyct/subway/google_transit.zip
 options:
   estimatedMaxCalculateCalls: 2100000
   maxWalkTravelTime: 14400
 redirect_from: /albany/
-version: 3
+version: 4
 zoom: 12
 ---
 

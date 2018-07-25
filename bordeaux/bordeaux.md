@@ -1,6 +1,6 @@
 ---
 added: '2011-06-13T16:26:47.252678'
-changed: '2018-04-03T12:57:32.355677'
+changed: '2018-07-25T07:32:27.731621'
 cityid: bordeaux
 cityname: Bordeaux
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   bus:
-    sha256: 527160a68ea349a1e91fab32c26a7742accaa76949c89e1f138b0cdf08aee66c
+    sha256: b7b935c8034bf9a1f88bcf314b450976049bdb0e8ade82665341fae1fe226073
     url: https://data.bordeaux-metropole.fr/files.php?gid=68&format=14
   tram:
-    sha256: 0338f0be04600264254c2aee73757b7a8cba2626a5ccf1a95eae9128189e87a4
+    sha256: ce17ba06bf82790427acf862825fdfbddfd4a7a77a6d1edce983c3067915e8d8
     url: https://data.bordeaux-metropole.fr/files.php?gid=67&format=14
 options:
   estimatedMaxCalculateCalls: 185000
-version: 2
+version: 3
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T21:43:25.529306'
-changed: '2018-04-03T12:23:24.042088'
+changed: '2018-07-25T07:49:48.119441'
 cityid: minneapolis
 cityname: Minneapolis
 coordinates:
@@ -9,19 +9,19 @@ coordinates:
 description: ''
 gtfs:
   metro-transit-179:
-    sha256: ef70e765683a7aa98d256821c5b48a185e59c61c48b90375adf771deeb1e87ae
+    sha256: f32f6aaf9577bd570bbaead581c3f2340c804ee6b7ea5931cb275969c121b127
     tf_feed_id: metro-transit/179
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metro-transit/179/20180331/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metro-transit/179/20180724/gtfs.zip
   minnesota-valley-transit-authority-177:
-    sha256: 5240c83d4ac001984a99b2791422f22b12da6988daa391e673650394c8486d8e
+    sha256: 7692624549b9f9db2fb1ef900661e2bcee59ad97dac1156fba47931bee088d25
     tf_feed_id: minnesota-valley-transit-authority/177
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/minnesota-valley-transit-authority/177/20180209/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/minnesota-valley-transit-authority/177/20180713/gtfs.zip
 options:
   dataSize: 6499659
   estimatedMaxCalculateCalls: 1050000
 tf_location_ids:
 - 150-minneapolis-mn-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

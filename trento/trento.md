@@ -1,6 +1,6 @@
 ---
 added: '2018-03-30T14:10:00.791562'
-changed: '2018-04-03T10:43:22.362195'
+changed: '2018-07-25T08:19:02.988805'
 cityid: trento
 cityname: Trento
 coordinates:
@@ -9,19 +9,19 @@ coordinates:
 description: ''
 gtfs:
   trentino-trasporti-esercizio-613:
-    sha256: e8d33d60a97a690e79fe5db5191370fb35e6aaf800086f6594931401541c1322
+    sha256: 7324c525c50cd505df8ab0f7e69767226cb2106d955522ac3986247b2711f48c
     tf_feed_id: trentino-trasporti-esercizio/613
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trentino-trasporti-esercizio/613/20180303/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trentino-trasporti-esercizio/613/20180723/gtfs.zip
   trentino-trasporti-esercizio-614:
-    sha256: 45a5ca86ecd69a794dec3eaee0121594ee544f086a5262f0b54f08efe65f7c02
+    sha256: 7a7d74d5804744e18e293fea978732ba02c5701d8781c406451c0e3d90878556
     tf_feed_id: trentino-trasporti-esercizio/614
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trentino-trasporti-esercizio/614/20180302/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trentino-trasporti-esercizio/614/20180723/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 170000
   maxWalkTravelTime: 10800
 tf_location_ids:
 - 460-trento-italy
-version: 3
+version: 4
 zoom: 12
 ---
 

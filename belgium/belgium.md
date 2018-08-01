@@ -32,9 +32,9 @@ version: 5
 zoom: 9
 ---
 
-(c) [De Lijn (Flemish Region)](http://www.delijn.be/) - [Data on GTFS-Data-Exchange](http://www.gtfs-data-exchange.com/agency/de-lijn/)
+Data of [De Lijn](http://www.delijn.be/) via [iRail](https://hello.irail.be/gtfs/)
 
-(c) [Société des Transports Intercommunaux de Bruxelles](https://opendata.stib-mivb.be/)
+Data of [Société des Transports Intercommunaux de Bruxelles](https://opendata.stib-mivb.be/) via [iRail](https://hello.irail.be/gtfs/)
 
 (c) [Société Régionale Wallonne du Transport / Groupe TEC](https://opendata.digitalwallonia.be/dataset/donnees-tec/resource/0cd77130-2b03-491c-ab36-8cdef89b015d) - License: CC-BY
 

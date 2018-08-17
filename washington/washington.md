@@ -1,6 +1,6 @@
 ---
 added: '2010-10-03T17:18:52.638769'
-changed: '2018-07-25T08:21:14.485220'
+changed: '2018-08-17T13:50:04.010376'
 cityid: washington
 cityname: Washington D.C.
 coordinates:
@@ -9,9 +9,9 @@ coordinates:
 description: ''
 gtfs:
   wmata-75:
-    sha256: 5b192a607cd8b0970fb18e381cd428ba741a92e52514fc361a7f79bbd644d5e4
+    sha256: df3a9a67647addc82ac2a177faa205a1640cf9e24fda19fd896b9e5516cfcc80
     tf_feed_id: wmata/75
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/wmata/75/20180724/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/wmata/75/20180816/gtfs.zip
   wmata-883:
     sha256: a3aa26f7c0150e02e2b00f229b8a4c4f450bd5ec1b2dcbd67a1d5c8a7c2c7534
     tf_feed_id: wmata/883
@@ -25,7 +25,7 @@ options:
   estimatedMaxCalculateCalls: 550000
 tf_location_ids:
 - 112-washington-dc-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

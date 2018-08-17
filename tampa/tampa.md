@@ -1,6 +1,6 @@
 ---
 added: '2011-08-18T14:27:20.073717'
-changed: '2018-07-25T08:16:57.752970'
+changed: '2018-08-17T14:26:57.466231'
 cityid: tampa
 cityname: Tampa
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 470000
 tf_location_ids:
 - 181-tampa-fl-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

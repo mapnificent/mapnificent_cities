@@ -1,6 +1,6 @@
 ---
 added: '2016-03-13T11:15:00.0'
-changed: '2018-07-25T08:10:10.127512'
+changed: '2018-08-17T14:21:54.772063'
 cityid: rhein-neckar
 cityname: Rhein-Neckar
 coordinates:
@@ -9,13 +9,13 @@ coordinates:
 description: ''
 gtfs:
   rhein-neckar-verkehr-629:
-    sha256: 3ca9eb23851d021c8489af028e2d6120f714d22f76b4f3b206cbd842bc73cbd4
+    sha256: b91bfa26bde5af40938d4ca21f0acbe385ba40f378513432af0fab205143c2f1
     tf_feed_id: rhein-neckar-verkehr/629
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/rhein-neckar-verkehr/629/20180720/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/rhein-neckar-verkehr/629/20180814/gtfs.zip
 maxWalkTravelTime: 7200
 tf_location_ids:
 - 470-mannheim-germany
-version: 3
+version: 4
 zoom: 12
 ---
 

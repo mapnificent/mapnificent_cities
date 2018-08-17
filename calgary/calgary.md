@@ -1,6 +1,6 @@
 ---
 added: '2011-01-19T10:42:21.718665'
-changed: '2018-07-25T07:35:57.010765'
+changed: '2018-08-17T13:33:31.320895'
 cityid: calgary
 cityname: Calgary
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 251000
 tf_location_ids:
 - 186-calgary-ab-canada
-version: 4
+version: 5
 zoom: 12
 ---
 

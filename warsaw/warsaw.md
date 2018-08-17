@@ -1,6 +1,6 @@
 ---
 added: '2017-08-26T18:32:14.551201'
-changed: '2018-07-25T08:20:34.174537'
+changed: '2018-08-17T15:14:41.076457'
 cityid: warsaw
 cityname: Warsaw
 coordinates:
@@ -24,16 +24,16 @@ gtfs:
     tf_feed_id: szybka-kolej-miejska-w-warszawie/790
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/szybka-kolej-miejska-w-warszawie/790/20170115/gtfs.zip
   warszawska-kolej-dojazdowa-722:
-    sha256: 383e78eb020397cab72f96b5dd2f5424ab68b5959560d4afaba1d05a922aeb2c
+    sha256: bea4a31e7ab3f1dd74b3ce484fb52c0a2c5a6f9dcb718cb9c85a710dcb361f9c
     tf_feed_id: warszawska-kolej-dojazdowa/722
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/warszawska-kolej-dojazdowa/722/20170917/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/warszawska-kolej-dojazdowa/722/20180725/gtfs.zip
   ztm-warszawa-720:
-    sha256: 024132a5e2bd1414ae07b9a68aa5e7c7e5252023c2b2859d180a229a78e16713
+    sha256: 55fca7430bd9513291b441b70ce61ca46af2507adc47ade435ca10e0b46a3368
     tf_feed_id: ztm-warszawa/720
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ztm-warszawa/720/20180724-2/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ztm-warszawa/720/20180817/gtfs.zip
 tf_location_ids:
 - 518-warsaw-poland
-version: 3
+version: 4
 zoom: 12
 ---
 

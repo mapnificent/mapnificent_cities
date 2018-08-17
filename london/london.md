@@ -7,6 +7,9 @@ coordinates:
 - -0.128317
 - 51.500515
 description: ''
+gtfs:
+  tfl:
+    file: true
 version: 4
 zoom: 12
 options:

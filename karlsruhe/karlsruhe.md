@@ -1,6 +1,6 @@
 ---
 added: '2017-09-15T14:36:08.626159'
-changed: '2018-04-03T12:48:02.079902'
+changed: '2018-08-17T14:48:15.016083'
 cityid: karlsruhe
 cityname: Karlsruhe
 coordinates:
@@ -8,12 +8,12 @@ coordinates:
 - 49.00921
 gtfs:
   karlsruhe:
-    sha256: ed498d254abb86036351e7c2315a1f506e838c0832849eec52703957582047cc
-    url: http://213.144.24.66/GTFS/google_transit.zip
+    sha256: 66997ffb0c3990b2d1fc80166ebf751db154090bf0c793ac88963f5171888946
+    url: https://projekte.kvv-efa.de/GTFS/google_transit.zip
 options:
   maxWalkTravelTime: 10800
-version: 2
+version: 3
 zoom: 12
 ---
 
-(c) [Karlsruher Verkehrsverbund](https://www.kvv.de/fahrplanauskunft/fahrplanauskunft-efa/opendata.html)
+(c) [Karlsruher Verkehrsverbund](https://www.kvv.de/fahrt-planen/fahrplaene/open-data.html)

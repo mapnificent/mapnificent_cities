@@ -1,6 +1,6 @@
 ---
 added: '2012-09-13T10:46:14.597184'
-changed: '2018-07-31T09:36:30.025126'
+changed: '2018-08-17T13:51:33.434983'
 cityid: belgium
 cityname: Belgium
 coordinates:
@@ -9,17 +9,17 @@ coordinates:
 description: ''
 gtfs:
   sncb:
-    sha256: c3a4b76cfed9e8d2e158bb1b865c19659377ce834597d537f9d25b2137975faf
+    sha256: 714206bf3345aadde5ce4b512839da41335475482374299849b6b398e8d7f647
     url: https://sncb-opendata.hafas.de/gtfs/static/c21ac6758dd25af84cca5b707f3cb3de
   societe-des-transports-intercommunaux-de-bruxelles-527:
-    sha256: 53d358e8371729ecd153a9c3662b694f1ebd31a16f6b66d92d74ca98114980af
+    sha256: 2a7a74dda6a381bde46bbc4dbecb759c944547dd55c1cf21c6529a92f7b6e9aa
     tf_feed_id: societe-des-transports-intercommunaux-de-bruxelles/527
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/societe-des-transports-intercommunaux-de-bruxelles/527/20180325/gtfs.zip
   tec:
     sha256: 2e71c7051d050de33a419b0d2a8a16a18405393027c183dcd8f74dd1a1e4286c
     url: http://opendata.tec-wl.be/Current%20GTFS/TEC-GTFS.zip
   vlaamse-vervoersmaatschappij-de-lijn-530:
-    sha256: e1bc3af9210e55fe948a0e566a31fc216f6e789e195f7d509964215cabc6ea01
+    sha256: 12137a6128582833780c4440dd1766c9ac77e859c3779f60baf68e24e061a11a
     tf_feed_id: vlaamse-vervoersmaatschappij-de-lijn/530
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/vlaamse-vervoersmaatschappij-de-lijn/530/20180327/gtfs.zip
 options:
@@ -28,7 +28,7 @@ options:
 redirect_from:
 - /flemish-region/
 - /flanders/
-version: 5
+version: 6
 zoom: 9
 ---
 

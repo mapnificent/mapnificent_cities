@@ -1,6 +1,6 @@
 ---
 added: '2010-12-15T09:22:15.146302'
-changed: '2018-07-25T07:49:38.644398'
+changed: '2018-08-17T15:09:22.281241'
 cityid: milwaukee
 cityname: Milwaukee
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   milwaukee-county-transit-system-182:
-    sha256: 231c95ce49ba76a7c144eeef4989b3d84a985c7d3563ff1e8e3f061f7facd335
+    sha256: e57131dca664110b6b00a8c4b5e33f3d20a27959b6676acffd4079b7918191e0
     tf_feed_id: milwaukee-county-transit-system/182
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/milwaukee-county-transit-system/182/20180722/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/milwaukee-county-transit-system/182/20180812/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 1705000
 tf_location_ids:
 - 153-milwaukee-wi-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

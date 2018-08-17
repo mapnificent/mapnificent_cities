@@ -1,6 +1,6 @@
 ---
 added: '2010-11-09T19:58:54.988550'
-changed: '2018-07-25T07:35:46.680538'
+changed: '2018-08-17T14:52:56.012973'
 cityid: buffalo
 cityname: Buffalo
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 40000
 tf_location_ids:
 - 183-buffalo-ny-usa
-version: 3
+version: 4
 zoom: 11
 ---
 

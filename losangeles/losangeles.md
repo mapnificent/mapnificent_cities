@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T19:39:56.000124'
-changed: '2018-07-25T07:46:26.301466'
+changed: '2018-08-17T14:51:29.492746'
 cityid: losangeles
 cityname: Los Angeles
 coordinates:
@@ -13,9 +13,9 @@ gtfs:
     tf_feed_id: la-metro/184
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/184/20180627/gtfs.zip
   la-metro-677:
-    sha256: da315cd2e56c60a12627cdf493c6e18cd7bad7d11d377fe5a7dec2c624cadd49
+    sha256: e142c253bb4623d8cd4ee13514ebe40912bbabe1e926f6c5f2ec668ae1649097
     tf_feed_id: la-metro/677
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/677/20180724/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/677/20180816/gtfs.zip
   ladot-transit-services-303:
     sha256: ba42d8e9be26d4d71c248e487fdf362c87659ce8475cc51280788fedd1fed186
     tf_feed_id: ladot-transit-services/303
@@ -29,7 +29,7 @@ options:
   maxWalkTravelTime: 14400
 tf_location_ids:
 - 154-los-angeles-ca-usa
-version: 8
+version: 9
 zoom: 12
 ---
 

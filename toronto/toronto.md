@@ -1,6 +1,6 @@
 ---
 added: '2010-10-10T11:13:21.198117'
-changed: '2018-07-25T08:17:32.678678'
+changed: '2018-08-17T15:02:56.241683'
 cityid: toronto
 cityname: Toronto/Hamilton
 coordinates:
@@ -9,9 +9,9 @@ coordinates:
 description: ''
 gtfs:
   go-transit-32:
-    sha256: 19d64ad1139c5254c3635f2899c02b7a3976913db12c4e8d540c295fbb50a72b
+    sha256: d74c4b4b03b3fdcb7b40fd70c7edd0335654ee313d1485508b4541293f46f7b4
     tf_feed_id: go-transit/32
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/32/20180717/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/32/20180803/gtfs.zip
   go-transit-543:
     sha256: 445f82a1388c30cd4e6ab06cffad7d96722162205fb2571669fa7cda57c28673
     tf_feed_id: go-transit/543
@@ -21,9 +21,9 @@ gtfs:
     tf_feed_id: hamilton-street-railway/31
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/hamilton-street-railway/31/20180618/gtfs.zip
   ttc-33:
-    sha256: 87a8c9eff09ac7b2c89cd02ef74d2cc89d48ced684292bd29255564b885eafbc
+    sha256: e9ab4bbaaa149f0ba4f5bd51bef4e485a44fe971285fb5951727d7cb61bc2411
     tf_feed_id: ttc/33
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ttc/33/20180618/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ttc/33/20180727/gtfs.zip
 options:
   defaultStartAtPosition:
     lat: 43.66389797397276
@@ -33,7 +33,7 @@ options:
 tf_location_ids:
 - 49-toronto-on-canada
 - 48-hamilton-on-canada
-version: 8
+version: 9
 zoom: 9
 ---
 

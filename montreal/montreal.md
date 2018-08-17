@@ -1,6 +1,6 @@
 ---
 added: '2011-06-10T14:31:18.289940'
-changed: '2018-07-25T07:50:05.145877'
+changed: '2018-08-17T14:11:10.475814'
 cityid: montreal
 cityname: Montréal
 coordinates:
@@ -73,15 +73,15 @@ gtfs:
     tf_feed_id: agence-metropolitaine-de-transport/143
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/agence-metropolitaine-de-transport/143/20180405/gtfs.zip
   societe-de-transport-de-montreal-39:
-    sha256: 27bd149afebec364be0fba6c6b19804c692888e04db933896d070ce83f95e4f6
+    sha256: 4eefbf147b5ecd573830adeed570c42abecd32c48cbb8634b50ffcb925bb29b1
     tf_feed_id: societe-de-transport-de-montreal/39
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/societe-de-transport-de-montreal/39/20180613/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/societe-de-transport-de-montreal/39/20180816/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 1207000
   maxWalkTravelTime: 10800
 tf_location_ids:
 - 56-montreal-qc-canada
-version: 6
+version: 7
 zoom: 11
 ---
 

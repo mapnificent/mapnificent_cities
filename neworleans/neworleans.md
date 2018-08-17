@@ -1,6 +1,6 @@
 ---
 added: '2012-06-24T13:37:04.493447'
-changed: '2018-07-25T07:56:14.944325'
+changed: '2018-08-17T13:50:50.368117'
 cityid: neworleans
 cityname: New Orleans
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 25000
 tf_location_ids:
 - 243-new-orleans-la-usa
-version: 5
+version: 6
 zoom: 12
 ---
 

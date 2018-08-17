@@ -1,6 +1,6 @@
 ---
 added: '2017-08-28T17:21:57.644509'
-changed: '2018-07-25T07:52:03.485974'
+changed: '2018-08-17T13:56:30.807366'
 cityid: netherlands
 cityname: Netherlands
 coordinates:
@@ -8,15 +8,15 @@ coordinates:
 - 52.370197
 gtfs:
   ov-814:
-    sha256: 6d89a826a2b248254cdec938c6ba377c94a5e3cae3a62ddba550fd0ad2c65fa0
+    sha256: a6456e3b4790faa0d2662d9f0c77c972fc12a2a81a3f4ac1785a3700ba192271
     tf_feed_id: ov/814
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ov/814/20180724/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ov/814/20180816/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 9000000
   maxWalkTravelTime: 21600
 tf_location_ids:
 - 194-the-netherlands
-version: 3
+version: 4
 zoom: 12
 ---
 

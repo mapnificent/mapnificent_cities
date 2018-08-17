@@ -1,6 +1,6 @@
 ---
 added: '2010-11-09T17:54:26.639318'
-changed: '2018-07-25T08:09:59.467199'
+changed: '2018-08-17T14:16:59.998561'
 cityid: raleigh
 cityname: Raleigh/Durham
 coordinates:
@@ -9,13 +9,13 @@ coordinates:
 description: ''
 gtfs:
   go-raleigh-365:
-    sha256: d93277ffddffaf2d49a8c79030977768b4b540e76a6005c732340214ceab81d2
+    sha256: 7e0b1a18668dccb4f399120067eeaca8650902a70c4257549aeed338fdd51276
     tf_feed_id: go-raleigh/365
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-raleigh/365/20180717/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-raleigh/365/20180813/gtfs.zip
   north-carolina-state-university-387:
-    sha256: b6c089eb17363cc02f30de5edbddc37917ee77ea8c5a3228ed59882352f7696e
+    sha256: 2549f1945f8f9799d2b3bc578b57f4e2bcf75cd9d06d0859316b9a550febb56e
     tf_feed_id: north-carolina-state-university/387
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/north-carolina-state-university/387/20180716/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/north-carolina-state-university/387/20180806/gtfs.zip
 options:
   dataSize: 577103
   defaultStartAtPosition:
@@ -24,7 +24,7 @@ options:
   estimatedMaxCalculateCalls: 1600000
 tf_location_ids:
 - 272-raleigh-nc-usa
-version: 4
+version: 5
 zoom: 10
 ---
 

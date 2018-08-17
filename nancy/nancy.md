@@ -1,6 +1,6 @@
 ---
 added: '2017-10-23T13:37:58.035264'
-changed: '2018-07-25T07:51:46.609635'
+changed: '2018-08-17T14:21:08.860852'
 cityid: nancy
 cityname: Nancy
 coordinates:
@@ -13,7 +13,7 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/communaute-urbaine-du-grand-nancy/596/20171206/gtfs.zip
 tf_location_ids:
 - 446-nancy-france
-version: 3
+version: 4
 zoom: 12
 ---
 

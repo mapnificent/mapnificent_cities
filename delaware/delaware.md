@@ -1,6 +1,6 @@
 ---
 added: '2010-11-09T18:34:28.681350'
-changed: '2018-07-25T07:39:22.368494'
+changed: '2018-08-17T14:20:00.290335'
 cityid: delaware
 cityname: Delaware
 coordinates:
@@ -20,7 +20,7 @@ options:
   maxWalkTravelTime: 14400
 tf_location_ids:
 - 163-delaware-usa
-version: 3
+version: 4
 zoom: 9
 ---
 

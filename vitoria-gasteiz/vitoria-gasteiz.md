@@ -1,6 +1,6 @@
 ---
 added: '2011-06-03T15:25:27.826393'
-changed: '2018-07-25T08:20:29.111394'
+changed: '2018-08-17T15:09:17.333553'
 cityid: vitoria-gasteiz
 cityname: Vitoria-Gasteiz
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 5000
 tf_location_ids:
 - 187-vitoria-gasteiz-alava-spain
-version: 3
+version: 4
 zoom: 12
 ---
 

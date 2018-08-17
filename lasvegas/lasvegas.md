@@ -1,6 +1,6 @@
 ---
 added: '2010-12-28T09:08:34.232723'
-changed: '2018-07-25T07:45:38.745048'
+changed: '2018-08-17T15:08:30.395768'
 cityid: lasvegas
 cityname: Las Vegas
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 1100000
 tf_location_ids:
 - 73-las-vegas-nv-usa
-version: 5
+version: 6
 zoom: 12
 ---
 

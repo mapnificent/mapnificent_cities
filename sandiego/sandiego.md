@@ -1,6 +1,6 @@
 ---
 added: '2010-10-24T22:40:02.831184'
-changed: '2018-07-25T08:11:47.296416'
+changed: '2018-08-17T13:51:13.310526'
 cityid: sandiego
 cityname: San Diego
 coordinates:
@@ -21,7 +21,7 @@ options:
   estimatedMaxCalculateCalls: 155000
 tf_location_ids:
 - 155-san-diego-ca-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

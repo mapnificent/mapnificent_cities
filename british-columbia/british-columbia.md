@@ -1,6 +1,6 @@
 ---
 added: '2018-05-17T10:26:50.639884'
-changed: '2018-07-25T07:33:49.244952'
+changed: '2018-08-17T14:56:28.002380'
 cityid: british-columbia
 cityname: British Columbia
 coordinates:
@@ -17,7 +17,7 @@ gtfs:
     sha256: 76b67456958b93d55f35edb511862dcb4d72e3f563701c000847c56714420abc
     url: https://bctransit.com/servlet/bctransit/data/GTFS%20-%20Chilliwack
   Comox Valley:
-    sha256: 451f9f939ce9eb6c32506dfc166e4ddaf4474cb07f36edcbd051703d5a26a2eb
+    sha256: 1e7759c997f72fa461ac1246216cea5c81b3f125552e0777f8b5db3ddbdad7e4
     url: https://bctransit.com/servlet/bctransit/data/GTFS%20-%20Comox%20Valley
   Cranbrook:
     sha256: 9c1e874331fa37dc6d8a3a71016422a8bfd9023995f0aa53267b64156910d565
@@ -56,7 +56,7 @@ gtfs:
     sha256: 27c9cd82b400cee3851589a0fe0e126624c3c7216058a1cc653bffa9b512bb14
     url: https://bctransit.com/servlet/bctransit/data/GTFS%20-%20Victoria
   West Kootenay:
-    sha256: b882b5b55114a119cf097948a9c46e8ae893bdedcbce372a5a7f2be72d8ee634
+    sha256: 7670c0e26798dea95f87781f52e2b5055214c6c43f6248fd3069c168769e073b
     url: https://bctransit.com/servlet/bctransit/data/GTFS%20-%20West%20Kootenay
   Whistler:
     sha256: d56fd972d62e3430a395611939ee32cdaf325cc6794407f2511e7364dacc6141
@@ -65,13 +65,13 @@ gtfs:
     sha256: 90efbbfd2cd2946110d1b7f70191cb0eaab0d0f8ca7152f9cf3a69abcf5cd0f2
     url: https://raw.githubusercontent.com/GTFSForBCFerries/gtfs/master/feed.zip
   translink-vancouver-29:
-    sha256: 4e3264c7bdc2107d7656a320b33447216cfe839925175ccd7a17bef245bd00c9
+    sha256: be7290e64a4385d8517b9fd0929da7879d144096a5997b5fd2f4ba6a3351c221
     tf_feed_id: translink-vancouver/29
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/translink-vancouver/29/20180618/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 6000000
   maxWalkTravelTime: 21600
-version: 4
+version: 5
 zoom: 12
 ---
 

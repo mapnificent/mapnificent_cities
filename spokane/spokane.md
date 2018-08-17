@@ -1,6 +1,6 @@
 ---
 added: '2011-06-06T19:09:07.830481'
-changed: '2018-07-25T08:13:49.309109'
+changed: '2018-08-17T15:04:32.369924'
 cityid: spokane
 cityname: Spokane
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   spokane-transit-authority-199:
-    sha256: 98187831287ebf2ebb2d799bb097166aebe30bbd9ab7e7d38d716e1da4a11c4a
+    sha256: eb7ee5e244ca69b18e56dfb9c3f3a152aa2a1b22df5a37a5a8d0f07c8cd7a6b4
     tf_feed_id: spokane-transit-authority/199
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/spokane-transit-authority/199/20180527/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/spokane-transit-authority/199/20180731/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 157-spokane-wa-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

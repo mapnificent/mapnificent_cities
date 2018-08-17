@@ -1,6 +1,6 @@
 ---
 added: '2011-11-23T11:46:48.550152'
-changed: '2018-04-03T12:39:43.042018'
+changed: '2018-08-17T14:15:05.549341'
 cityid: nantes
 cityname: Nantes
 coordinates:
@@ -9,11 +9,11 @@ coordinates:
 description: Nantes is a city in western France on the Loire River, 50 km (31 mi) from the Atlantic coast
 gtfs:
   open-data-nantes:
-    sha256: e6db8d4df2fae499df583803faff48f78b6e53d4d1c90b6a9926432cd94800d8
+    sha256: 488f08233353a90024fe62d9c85a9a38e2544eafd9b15fa30a3cfc48daa77bf7
     url: http://data.nantes.fr/fileadmin/data/datastore/nm/mobilite/24440040400129_NM_TAN_00005/ARRETS_HORAIRES_CIRCUITS_TAN_gtfs.zip
 options:
   estimatedMaxCalculateCalls: 55000
-version: 6
+version: 7
 zoom: 12
 ---
 

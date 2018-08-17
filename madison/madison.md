@@ -1,6 +1,6 @@
 ---
 added: '2011-06-01T19:54:58.453033'
-changed: '2018-07-25T07:47:01.509571'
+changed: '2018-08-17T14:20:46.128691'
 cityid: madison
 cityname: Madison
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   metro-transit-madison-181:
-    sha256: 60baddbea8bdefe57267c2696c056e13fadbb4447fdc0918bd002afc480d87a2
+    sha256: 9e236babc1ad2d6ffce1aad0a99a4dddfc656f6c25f48363d098d0c3df0cbd2a
     tf_feed_id: metro-transit-madison/181
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metro-transit-madison/181/20180517/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metro-transit-madison/181/20180813/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 290000
 tf_location_ids:
 - 152-madison-wi-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T21:28:53.793850'
-changed: '2018-07-25T08:14:10.481291'
+changed: '2018-08-17T13:34:24.924889'
 cityid: stlouis
 cityname: St. Louis
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 200000
 tf_location_ids:
 - 290-saint-louis-mo-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

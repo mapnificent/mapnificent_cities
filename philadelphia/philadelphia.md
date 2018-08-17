@@ -1,6 +1,6 @@
 ---
 added: '2010-10-07T19:24:57.269755'
-changed: '2018-07-25T08:08:32.978188'
+changed: '2018-08-17T15:04:11.134853'
 cityid: philadelphia
 cityname: Philadelphia
 coordinates:
@@ -9,19 +9,19 @@ coordinates:
 description: ''
 gtfs:
   septa-262:
-    sha256: c820374eab52525d12c207f9558558a68ea99e7be16e885e3ea4f7fdbadc0ec8
+    sha256: 6a1d22150541451a29273ac5f50ea83f28e6dfc97c8a052002b5fc251b327ebb
     tf_feed_id: septa/262
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/septa/262/20180524/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/septa/262/20180813/gtfs.zip
   septa-263:
-    sha256: f4bc0cf877e8e4719eb0c9a94a27bc3f499b739f5103a6c68aed8798852b6909
+    sha256: 4ab67767b8c8a3f1d20962c74587142bc7f34786d8fcb20cc810cbd1e3f9e85e
     tf_feed_id: septa/263
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/septa/263/20180525/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/septa/263/20180814/gtfs.zip
 options:
   dataSize: 4449546
   estimatedMaxCalculateCalls: 2200000
 tf_location_ids:
 - 106-philadelphia-pa-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

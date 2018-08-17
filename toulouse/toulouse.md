@@ -1,6 +1,6 @@
 ---
 added: '2012-10-16T11:02:22.585963'
-changed: '2018-07-25T08:18:49.935023'
+changed: '2018-08-17T14:05:26.832531'
 cityid: toulouse
 cityname: Toulouse
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   tisseo-595:
-    sha256: 326e1fea78f49f8404981060b16d316073dfefac25b96e99ad42ead9708893e5
+    sha256: 6643e27e62932fb1f365ef57f0a8f45b4290ff8ec7d7e8a7c8c755f70fa660d2
     tf_feed_id: tisseo/595
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/tisseo/595/20180722/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/tisseo/595/20180813/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 445-toulouse-france
-version: 4
+version: 5
 zoom: 12
 ---
 

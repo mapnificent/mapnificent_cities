@@ -1,6 +1,6 @@
 ---
 added: '2010-10-03T17:18:52.638547'
-changed: '2018-07-25T08:11:21.137260'
+changed: '2018-08-17T13:41:38.032334'
 cityid: sacramento
 cityname: Sacramento
 coordinates:
@@ -25,7 +25,7 @@ options:
   estimatedMaxCalculateCalls: 40000
 tf_location_ids:
 - 96-sacramento-ca-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

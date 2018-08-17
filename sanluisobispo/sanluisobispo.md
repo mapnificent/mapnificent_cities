@@ -1,6 +1,6 @@
 ---
 added: '2011-11-01T10:35:24.903350'
-changed: '2018-07-25T08:12:50.896456'
+changed: '2018-08-17T15:14:06.723524'
 cityid: sanluisobispo
 cityname: San Luis Obispo
 coordinates:
@@ -20,7 +20,7 @@ options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 512-san-luis-obispo-ca-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

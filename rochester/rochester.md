@@ -1,6 +1,6 @@
 ---
 added: '2011-08-15T16:35:07.386320'
-changed: '2018-07-25T08:10:26.773773'
+changed: '2018-08-17T13:41:23.854211'
 cityid: rochester
 cityname: Rochester
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 270000
 tf_location_ids:
 - 184-rochester-ny-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

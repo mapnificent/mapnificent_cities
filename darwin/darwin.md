@@ -1,6 +1,6 @@
 ---
 added: '2012-06-06T09:11:55.761238'
-changed: '2018-07-25T07:39:18.212815'
+changed: '2018-08-17T15:05:21.137801'
 cityid: darwin
 cityname: Darwin
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 374-darwin-nt-australia
-version: 3
+version: 4
 zoom: 12
 ---
 

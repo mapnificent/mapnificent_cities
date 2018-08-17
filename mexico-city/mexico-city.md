@@ -1,6 +1,6 @@
 ---
 added: '2017-08-26T19:13:42.175180'
-changed: '2018-04-03T12:48:18.478586'
+changed: '2018-08-17T14:48:36.378515'
 cityid: mexico-city
 cityname: Mexico City
 coordinates:
@@ -8,15 +8,15 @@ coordinates:
 - 19.432608
 gtfs:
   mexico-city-federal-district-government-70:
-    sha256: 59fb26ff04eac6db7cb264445d4df0dc3bd2bb6c79eb3267b0aaf7a71b41a2c2
+    sha256: 45081036431db10e4251a5e97dec0e094f599567d6f26f627050755468598fb7
     tf_feed_id: mexico-city-federal-district-government/70
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/mexico-city-federal-district-government/70/20180403/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/mexico-city-federal-district-government/70/20180509/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 350000
   maxWalkTravelTime: 13200
 tf_location_ids:
 - 104-mexico-city-federal-district-mexico
-version: 3
+version: 4
 zoom: 12
 ---
 

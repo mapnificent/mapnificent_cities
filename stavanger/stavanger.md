@@ -1,6 +1,6 @@
 ---
 added: '2011-06-10T15:31:31.163663'
-changed: '2018-07-25T08:13:55.211596'
+changed: '2018-08-17T13:41:06.576003'
 cityid: stavanger
 cityname: Stavanger
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 870000
 tf_location_ids:
 - 188-rogaland-norway
-version: 4
+version: 5
 zoom: 12
 ---
 

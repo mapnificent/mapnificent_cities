@@ -1,6 +1,6 @@
 ---
 added: '2011-01-15T01:28:12.695408'
-changed: '2018-07-25T07:41:14.453115'
+changed: '2018-08-17T14:10:05.440551'
 cityid: halifax
 cityname: Halifax
 coordinates:
@@ -16,7 +16,7 @@ options:
   estimatedMaxCalculateCalls: 55000
 tf_location_ids:
 - 53-halifax-ns-canada
-version: 3
+version: 4
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2017-09-15T22:49:31.607712'
-changed: '2018-07-25T08:04:12.900317'
+changed: '2018-08-17T13:50:57.443213'
 cityid: palermo
 cityname: Palermo
 coordinates:
@@ -13,7 +13,7 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/amat-palermo-spa/540/20170929/gtfs.zip
 tf_location_ids:
 - 399-palermo-italy
-version: 4
+version: 5
 zoom: 12
 ---
 

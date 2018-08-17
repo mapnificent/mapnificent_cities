@@ -1,6 +1,6 @@
 ---
 added: '2010-12-15T09:59:11.786138'
-changed: '2018-07-25T07:41:30.147044'
+changed: '2018-08-17T15:02:44.756549'
 cityid: hampton
 cityname: Hampton
 coordinates:
@@ -17,7 +17,7 @@ options:
 redirect_from: /hamptonroads/
 tf_location_ids:
 - 263-hampton-va-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

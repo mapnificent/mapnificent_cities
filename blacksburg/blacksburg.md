@@ -1,6 +1,6 @@
 ---
 added: '2011-01-09T19:43:20.980521'
-changed: '2018-07-25T07:32:18.790921'
+changed: '2018-08-17T14:09:54.721705'
 cityid: blacksburg
 cityname: Blacksburg
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 264-blacksburg-va-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

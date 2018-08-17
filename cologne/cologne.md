@@ -1,6 +1,6 @@
 ---
 added: '2012-01-22T02:42:02.576877'
-changed: '2018-07-25T07:38:29.860854'
+changed: '2018-08-17T14:48:49.976613'
 cityid: cologne
 cityname: Cologne
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 6500
 tf_location_ids:
 - 605-cologne-germany
-version: 3
+version: 4
 zoom: 12
 ---
 

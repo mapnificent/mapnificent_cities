@@ -1,6 +1,6 @@
 ---
 added: '2017-05-04T23:20:29.679796'
-changed: '2018-07-25T07:59:42.732942'
+changed: '2018-08-17T13:47:25.218502'
 cityid: nice
 cityname: Nice
 coordinates:
@@ -14,7 +14,7 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/lignes-dazur/738/20170322/gtfs.zip
 tf_location_ids:
 - 541-nice-france
-version: 3
+version: 4
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2011-01-13T12:17:00.733389'
-changed: '2018-07-25T07:40:41.262315'
+changed: '2018-08-17T14:26:30.302125'
 cityid: eugene
 cityname: Eugene
 coordinates:
@@ -13,9 +13,9 @@ gtfs:
     tf_feed_id: cascade-point/441
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/cascade-point/441/20180712/gtfs.zip
   city-2-city-shuttle-772:
-    sha256: 8c7ff0ece5379cb8535a7ad30ea50fad46a95f00d3b51a0777e980033e7ac6e8
+    sha256: 8b5bb96ab97932cb1ebb2b407c2b4a78adc70eafc56bafc67d997fe903189bd7
     tf_feed_id: city-2-city-shuttle/772
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-2-city-shuttle/772/20170926/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-2-city-shuttle/772/20180725/gtfs.zip
   lane-transit-district-314:
     sha256: e4c7d6a109f2c1d137efa8585c9b3410e16e8e642c0b483cc5fa449f2a4f05d3
     tf_feed_id: lane-transit-district/314
@@ -37,7 +37,7 @@ options:
   estimatedMaxCalculateCalls: 3500
 tf_location_ids:
 - 225-eugene-or-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T21:12:56.122877'
-changed: '2018-07-25T08:19:40.705794'
+changed: '2018-08-17T14:53:07.004697'
 cityid: vancouver
 cityname: Vancouver
 coordinates:
@@ -11,15 +11,15 @@ gtfs:
   bc-ferries-916:
     tf_feed_id: bc-ferries/916
   translink-vancouver-29:
-    sha256: 4e3264c7bdc2107d7656a320b33447216cfe839925175ccd7a17bef245bd00c9
+    sha256: be7290e64a4385d8517b9fd0929da7879d144096a5997b5fd2f4ba6a3351c221
     tf_feed_id: translink-vancouver/29
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/translink-vancouver/29/20180721/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/translink-vancouver/29/20180811/gtfs.zip
 options:
   dataSize: 2647276
   estimatedMaxCalculateCalls: 550000
 tf_location_ids:
 - 45-vancouver-bc-canada
-version: 3
+version: 4
 zoom: 12
 ---
 

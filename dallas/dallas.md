@@ -1,6 +1,6 @@
 ---
 added: '2010-10-07T19:24:57.268468'
-changed: '2018-07-25T07:39:06.805224'
+changed: '2018-08-17T14:51:16.662295'
 cityid: dallas
 cityname: Dallas
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 700000
 tf_location_ids:
 - 38-dallas-tx-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

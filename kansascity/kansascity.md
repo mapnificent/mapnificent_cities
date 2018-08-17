@@ -1,6 +1,6 @@
 ---
 added: '2010-10-07T19:24:57.270011'
-changed: '2018-07-25T07:44:16.085224'
+changed: '2018-08-17T14:10:16.348777'
 cityid: kansascity
 cityname: Kansas City
 coordinates:
@@ -17,7 +17,7 @@ options:
   estimatedMaxCalculateCalls: 300000
 tf_location_ids:
 - 291-kansas-city-mo-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

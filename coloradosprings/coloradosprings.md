@@ -1,6 +1,6 @@
 ---
 added: '2011-03-04T12:17:02.679759'
-changed: '2018-04-03T12:48:13.375017'
+changed: '2018-08-17T14:48:31.217046'
 cityid: coloradosprings
 cityname: Colorado Springs
 coordinates:
@@ -14,9 +14,10 @@ gtfs:
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/mountain-metropolitan-transit/374/20170407/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 55000
+script: "./apply_fixes.sh"
 tf_location_ids:
 - 282-colorado-springs-co-usa
-version: 2
+version: 3
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2013-12-31T17:18:35.419635'
-changed: '2018-07-25T08:13:44.622240'
+changed: '2018-08-17T15:04:03.254543'
 cityid: sonoma
 cityname: Sonoma County
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   sonoma-county-transit-419:
-    sha256: 5efa627e907c9d7a85a72b2c01f0e67b1f92a5eec3a23081c5613e23755a0bea
+    sha256: 235dea3a68312322ed70f6d5652b1060fee02f197e4eb57da468b1ff2a74da05
     tf_feed_id: sonoma-county-transit/419
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sonoma-county-transit/419/20180709/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sonoma-county-transit/419/20180815/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 40000
 tf_location_ids:
 - 321-sonoma-county-ca-usa
-version: 3
+version: 4
 zoom: 11
 ---
 

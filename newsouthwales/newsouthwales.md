@@ -1,6 +1,6 @@
 ---
 added: '2012-05-23T10:23:35.145719'
-changed: '2018-07-25T07:56:22.149807'
+changed: '2018-08-17T14:55:14.404407'
 cityid: newsouthwales
 cityname: New South Wales
 coordinates:
@@ -21,7 +21,7 @@ options:
   estimatedMaxCalculateCalls: 16000000
 tf_location_ids:
 - 113-new-south-wales-australia
-version: 3
+version: 4
 zoom: 10
 ---
 

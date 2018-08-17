@@ -1,6 +1,6 @@
 ---
 added: '2012-08-20T16:44:08.953138'
-changed: '2018-07-25T08:19:35.383812'
+changed: '2018-08-17T13:43:52.004000'
 cityid: valencia
 cityname: Valencia
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   emt-valencia-719:
-    sha256: 11ea36f176621759e18dc12875f6ea74ee6d7131001095b8237c65ad8ce22d70
+    sha256: 8c593be4860afef65c5aa9d1ccb203936f1e3866e5988f306f23186ed9b14c98
     tf_feed_id: emt-valencia/719
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/emt-valencia/719/20180719/gtfs.zip
+    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/emt-valencia/719/20180816/gtfs.zip
 options:
   calculateOnDrag: true
   estimatedMaxCalculateCalls: 4414
 tf_location_ids:
 - 517-valencia-spain
-version: 3
+version: 4
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2010-10-07T19:24:57.269498'
-changed: '2018-07-25T08:09:02.865619'
+changed: '2018-08-17T14:17:19.314069'
 cityid: portland
 cityname: Portland
 coordinates:
@@ -41,7 +41,7 @@ options:
   estimatedMaxCalculateCalls: 2600000
 tf_location_ids:
 - 64-portland-or-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

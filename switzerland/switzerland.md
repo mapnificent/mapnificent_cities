@@ -4,8 +4,8 @@ changed: '2018-04-03T12:44:22.824450'
 cityid: switzerland
 cityname: Switzerland
 coordinates:
-- 8.5165
-- 47.1682
+- 8.54226
+- 47.37174
 description: ''
 gtfs:
   switzerland:
@@ -14,6 +14,8 @@ gtfs:
 options:
   estimatedMaxCalculateCalls: 900000
   maxWalkTravelTime: 43200
+redirect_from:
+- /zurich/
 version: 2
 zoom: 12
 ---

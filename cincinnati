@@ -1,0 +1,15 @@
+---
+cityid: cincinnati
+cityname: Cincinnati
+coordinates:
+- 39.101407 
+- -84.510647
+description: ''
+# Preferably provide a transitfeeds.com location ID, e.g.
+tf_location_ids:
+- 218-cincinnati-metro
+version: 1
+zoom: 12
+---
+
+(c) [Cincinnati Metro](http://go-metro.org)

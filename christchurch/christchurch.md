@@ -21,4 +21,4 @@ version: 1
 zoom: 12
 ---
 
-(c) [Name](http://)
+(c) [Christchurch Metro](http://www.metroinfo.co.nz/Pages/default.aspx) - [Terms](http://data.ecan.govt.nz/Catalogue/Agreement?AgreementFile=AgreementPT.htm&AgreementRequirements=UserDetails&AgreementType=AgreementPT)

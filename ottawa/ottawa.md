@@ -1,6 +1,6 @@
 ---
 added: '2010-11-12T19:58:02.775233'
-changed: '2018-08-17T15:10:24.948157'
+changed: '2019-07-17T14:21:52.713305'
 cityid: ottawa
 cityname: Ottawa
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   oc-transpo-30:
-    sha256: 8eae7e5df9152aeaa8778aa0bf46bdc96885ed9a391a1aceb5c932bfa4b1d496
+    sha256: 36497a658554199350c60b7e418d8688e3a93227e4809d4d18d72ab4e80165ae
     tf_feed_id: oc-transpo/30
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/oc-transpo/30/20180813/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/oc-transpo/30/20190716/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 500000
 tf_location_ids:
 - 47-ottawa-on-canada
-version: 4
+version: 5
 zoom: 12
 ---
 

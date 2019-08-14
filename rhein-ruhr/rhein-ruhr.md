@@ -1,6 +1,6 @@
 ---
 added: '2018-05-17T12:56:38.779859'
-changed: '2018-05-17T12:56:38.779859'
+changed: '2019-08-14T11:25:58.455721'
 cityid: rhein-ruhr
 cityname: Rhein-Ruhr
 coordinates:
@@ -8,12 +8,12 @@ coordinates:
 - 51.225556
 gtfs:
   rhein-ruhr:
-    sha256: 4b2ac6e69da1f1582cdd7efd44c3a3e4718a02dc1fbd7e1be4bae09e9abdf8d0
-    url: https://dodp.ckan.io/dataset/919f39a4-50e6-470c-824c-929d83eff8e8/resource/a17fdcfe-7fb8-40d5-9657-b8ad63c50fa7/download/google_transit_vrr_2018_05_11.zip
+    sha256: f5f42c506a78f2a8bfdc04cbcc527d60207e6a03770f292fc4008e790f9f91f3
+    url: https://openvrr.de/dataset/c415abd6-3b63-4a1f-8a17-9b77cf5f09ec/resource/a2ca2c35-dbb0-4d1b-8c5f-adcb399229ac/download/2019_08_06-google_transit_verbundweit_mit_spnv.zip
 options:
   estimatedMaxCalculateCalls: 4500000
   maxWalkTravelTime: 21600
-version: 3
+version: 4
 zoom: 12
 ---
 

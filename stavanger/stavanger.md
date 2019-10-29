@@ -1,6 +1,6 @@
 ---
 added: '2011-06-10T15:31:31.163663'
-changed: '2018-08-17T13:41:06.576003'
+changed: '2019-10-29T07:47:39.745407'
 cityid: stavanger
 cityname: Stavanger
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   kolumbus-54:
-    sha256: 59ce6406b755baa8273621cbc1b9fb3899a1c7b6f0fe505653dec9386eb1852b
+    sha256: ad5737bfeace07bf4c971783b87a9a28d0eaa7f637d6fb181677a02d4745747b
     tf_feed_id: kolumbus/54
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/kolumbus/54/20180717/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/kolumbus/54/20191015/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 870000
 tf_location_ids:
 - 188-rogaland-norway
-version: 5
+version: 6
 zoom: 12
 ---
 

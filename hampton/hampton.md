@@ -1,6 +1,6 @@
 ---
 added: '2010-12-15T09:59:11.786138'
-changed: '2018-08-17T15:02:44.756549'
+changed: '2020-03-10T10:02:53.536587'
 cityid: hampton
 cityname: Hampton
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   hampton-roads-transit-358:
-    sha256: 238ebd6079a04e9c5bbf9b1c9364dd5cd23bbc39bc57ef81eb5a95c1ef3a9633
+    sha256: 8306906a5cad002bbf68263f8b2b0d4c50d3eac2bf6d3e7b1d5daaca897b76bb
     tf_feed_id: hampton-roads-transit/358
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/hampton-roads-transit/358/20180707/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/hampton-roads-transit/358/20191211/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 90000
 redirect_from: /hamptonroads/
 tf_location_ids:
 - 263-hampton-va-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

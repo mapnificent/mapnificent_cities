@@ -1,6 +1,6 @@
 ---
 added: '2017-09-21T13:30:25.017100'
-changed: '2018-04-03T12:39:14.323218'
+changed: '2020-03-10T10:02:06.612581'
 cityid: nuernberg
 cityname: Nürnberg
 coordinates:
@@ -8,9 +8,9 @@ coordinates:
 - 49.455556
 gtfs:
   nuernberg:
-    sha256: 3a401070ab00ee55d981c5ad3b36715a276259a3373dd1d6362aaf98cc8d04f2
+    sha256: 806432b89230ac2aeed41c34262cd759351473e64a1ffdc9ed4aeda16809df2e
     url: https://www.vgn.de/opendata/gtfs.zip
-version: 2
+version: 3
 zoom: 13
 ---
 

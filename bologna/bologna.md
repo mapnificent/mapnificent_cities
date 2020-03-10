@@ -1,6 +1,6 @@
 ---
 added: '2018-04-05T08:02:47.629142'
-changed: '2018-07-25T07:32:25.283742'
+changed: '2020-03-10T10:30:35.187736'
 cityid: bologna
 cityname: Bologna
 coordinates:
@@ -9,22 +9,22 @@ coordinates:
 description: ''
 gtfs:
   tper-blq:
-    sha256: 079a4f5338529420fd30c00369f2410266b74030a1c494a7adc05da0886fc8f5
+    sha256: 8bb70e64b6c4a496703ad15a32ea81064cb48b547a760dfb24ccca6fc774d85f
     url: https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=tper.it&filename=gommagtfsblq&version=20180328&format=zip
   tper-bologna:
-    sha256: 8c3363150fa69e8fddaf3eaee517811f327251586f2c1cc49c869495e1f10b6d
+    sha256: 17bc3a1a2582f0dfa51cea76a874664f673ae4fb0ea3536f3f9128b5971f48d8
     url: https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=tper.it&filename=gommagtfsbo&version=20180328&format=zip
   tper-ferrara:
-    sha256: f925308f605a83f9f4d5f43caa2aa80d12f011ed954d0dbb83037e7bbf5010f9
+    sha256: acbce2b8439fe162ff37b9df3407d07c8559561aff97041be23b5b7f24d2a55f
     url: https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=tper.it&filename=gommagtfsfe&version=20180328&format=zip
   tper-fico:
-    sha256: 01fabaaf8c69f493dc215b43bea81ac7022972cd358c51b69b9f47df1c420e91
+    sha256: 07475bd97364c18b5c73e3a0f1403659f865932afa0255e4405a61b65a46a7e7
     url: https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=tper.it&filename=gommagtfsfico&version=20180328&format=zip
 options:
   maxWalkTravelTime: 10800
 redirect_from:
 - /cento/
-version: 6
+version: 7
 zoom: 12
 ---
 

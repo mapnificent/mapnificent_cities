@@ -1,6 +1,6 @@
 ---
 added: '2010-10-08T19:39:56.000124'
-changed: '2018-08-17T14:51:29.492746'
+changed: '2020-03-10T10:03:00.343409'
 cityid: losangeles
 cityname: Los Angeles
 coordinates:
@@ -8,28 +8,32 @@ coordinates:
 - 34.03871102842687
 description: ''
 gtfs:
+  la-go-bus-1250:
+    sha256: 8daa04ebac27a72854aea2b12b5b65099d51264731d3f3019fc8b784f8cb1e12
+    tf_feed_id: la-go-bus/1250
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/la-go-bus/1250/20191225/gtfs.zip
   la-metro-184:
-    sha256: ba25d6715655b22941e15d8a2540f969a00a1a3e65ae15fcbdebf55614e7044a
+    sha256: 02d1119f5de4ff887108aeaee9a9fcb460ca5736ed92189a48b566d456f060ca
     tf_feed_id: la-metro/184
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/184/20180627/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/184/20200116/gtfs.zip
   la-metro-677:
-    sha256: e142c253bb4623d8cd4ee13514ebe40912bbabe1e926f6c5f2ec668ae1649097
+    sha256: 2ae54984cf9a7ffcc2ef725cd2f2e4fb90f7000fe50a9066cc60e1763408e6ac
     tf_feed_id: la-metro/677
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/677/20180816/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/la-metro/677/20200307/gtfs.zip
   ladot-transit-services-303:
-    sha256: ba42d8e9be26d4d71c248e487fdf362c87659ce8475cc51280788fedd1fed186
+    sha256: d2970857cd78830c7faf7ede057576e736ae1d973a04bb9f52ccfcc68274a82c
     tf_feed_id: ladot-transit-services/303
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ladot-transit-services/303/20180227/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/ladot-transit-services/303/20191219/gtfs.zip
   metrolink-332:
-    sha256: 406d993fd99df49ecaab52fa8fa6e5f1eee039abe041d8fc95782e5ab4859f4a
+    sha256: a9da9d3d6a321fbde223a0a03ffb17d374ac1b58ff2c176a2f7012d07f62ad7a
     tf_feed_id: metrolink/332
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/metrolink/332/20180610/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/metrolink/332/20191015/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 500000
   maxWalkTravelTime: 14400
 tf_location_ids:
 - 154-los-angeles-ca-usa
-version: 9
+version: 10
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2010-11-16T17:48:04.795222'
-changed: '2018-08-17T14:58:20.356734'
+changed: '2020-03-10T10:20:38.358027'
 cityid: denver
 cityname: Denver
 coordinates:
@@ -9,22 +9,22 @@ coordinates:
 description: ''
 gtfs:
   bustang-770:
-    sha256: 08d7a9ea5abf1995b9f5113f83be8811e59286c0f14c8d31f4f84b12f9518196
+    sha256: 7e4bc62ed42813c42ad923ddb8f54de27ec5db9e24cb908dfab6311a3ac40056
     tf_feed_id: bustang/770
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/bustang/770/20180810/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/bustang/770/20191225/gtfs.zip
   colorado-mountain-express-900:
-    sha256: 804c3f9d878ae2e491e3af88d7130a7c0b76fa0f8e0cf094589cc6633a01c915
+    sha256: 45c233b44cde7d3e197586b1def2866d0ce31f26374ee14d7aab9af90910f5fc
     tf_feed_id: colorado-mountain-express/900
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/colorado-mountain-express/900/20180609/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/colorado-mountain-express/900/20200207/gtfs.zip
   rtd-denver-188:
-    sha256: 538b637b10817a65136a38a57cdf0167fbf773a01b69dc1290de6f65d337aafd
+    sha256: 874ce6304c97f57a67f1f2735bba7b45ba788d07f5681b2b3bc2b6e06c8e9437
     tf_feed_id: rtd-denver/188
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/rtd-denver/188/20180815/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/rtd-denver/188/20200307/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 700000
 tf_location_ids:
 - 108-denver-co-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

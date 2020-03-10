@@ -1,6 +1,6 @@
 ---
 added: '2011-06-21T08:27:04.903513'
-changed: '2018-08-17T15:04:49.990123'
+changed: '2020-03-10T10:30:28.738796'
 cityid: sanjose
 cityname: San Jose
 coordinates:
@@ -9,16 +9,16 @@ coordinates:
 description: ''
 gtfs:
   vta-45:
-    sha256: 22b708ed36bdf629f5968458ecef8dabb54e163037e04c6879f877536c0dd9f1
+    sha256: 55b6a0a8fbcf422c4cadf734bc6ace39baab86a3eae7fe56ad9c83f055ba71e9
     tf_feed_id: vta/45
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/vta/45/20180804/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/vta/45/20200305/gtfs.zip
 hidden: true
 options:
   calculateOnDrag: true
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 70-san-jose-ca-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2011-08-18T14:27:20.073717'
-changed: '2018-08-17T14:26:57.466231'
+changed: '2020-03-10T10:34:52.933121'
 cityid: tampa
 cityname: Tampa
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   hillsborough-area-regional-transit-228:
-    sha256: e66cedc4a187cb3c454060cb77482919aaa6142aa35bffa15d1428c71a172062
+    sha256: 09faca1292842131e60b29df73d9313458544d3687ff67972b74710460cfd32a
     tf_feed_id: hillsborough-area-regional-transit/228
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/hillsborough-area-regional-transit/228/20180705/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/hillsborough-area-regional-transit/228/20200308/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 470000
 tf_location_ids:
 - 181-tampa-fl-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

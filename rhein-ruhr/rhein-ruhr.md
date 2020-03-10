@@ -1,6 +1,6 @@
 ---
 added: '2018-05-17T12:56:38.779859'
-changed: '2019-08-14T11:25:58.455721'
+changed: '2020-03-10T10:21:27.828170'
 cityid: rhein-ruhr
 cityname: Rhein-Ruhr
 coordinates:
@@ -13,7 +13,7 @@ gtfs:
 options:
   estimatedMaxCalculateCalls: 4500000
   maxWalkTravelTime: 21600
-version: 4
+version: 5
 zoom: 12
 ---
 

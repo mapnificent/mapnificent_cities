@@ -1,6 +1,6 @@
 ---
 added: '2013-07-26T09:24:38.238957'
-changed: '2019-08-20T18:27:58.289570'
+changed: '2020-03-10T10:06:33.491942'
 cityid: oslo
 cityname: Oslo
 coordinates:
@@ -17,7 +17,7 @@ options:
   maxWalkTravelTime: 10800
 tf_location_ids:
 - 189-oslo-norway
-version: 6
+version: 7
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2010-10-07T19:24:57.268468'
-changed: '2018-08-17T14:51:16.662295'
+changed: '2020-03-10T10:25:32.078498'
 cityid: dallas
 cityname: Dallas
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   dart-26:
-    sha256: ee113524d93f92e6daee6b94e1a07a971507b08c0442439b72f9133550b03841
+    sha256: 4238b7ae19b00fa5150370836dc14ac6519fdad038a8aa39e7fd49fd8f29d61e
     tf_feed_id: dart/26
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/dart/26/20180627/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/dart/26/20200228/gtfs.zip
 options:
   dataSize: 2759235
   estimatedMaxCalculateCalls: 700000
 tf_location_ids:
 - 38-dallas-tx-usa
-version: 5
+version: 6
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2015-03-17'
-changed: '2019-02-05T16:08:42.350613'
+changed: '2020-03-10T10:16:40.560393'
 cityid: freiburg
 cityname: Freiburg
 coordinates:
@@ -9,9 +9,9 @@ coordinates:
 description: ''
 gtfs:
   freiburg:
-    sha256: 35ee100d406acc13789884d9978abd15b8494913c1f224bfbc8ce86b5736429c
+    sha256: 47a4bf24b70deebbd820633e6e2694e3f48fdf275e5aeca06a85b49f0a413688
     url: https://fritz.freiburg.de/csv_Downloads/VAGFR.zip
-version: 2
+version: 3
 zoom: 12
 ---
 

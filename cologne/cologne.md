@@ -1,6 +1,6 @@
 ---
 added: '2012-01-22T02:42:02.576877'
-changed: '2018-08-17T14:48:49.976613'
+changed: '2020-03-10T10:30:45.104593'
 cityid: cologne
 cityname: Cologne
 coordinates:
@@ -11,13 +11,13 @@ gtfs:
   verkehrsverbund-rhein-sieg-835:
     sha256: 3e69c941c4486ca003cb3b1df19265e4b5e5e29c50e7185ef86c5f51761360e5
     tf_feed_id: verkehrsverbund-rhein-sieg/835
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/verkehrsverbund-rhein-sieg/835/20171229/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/verkehrsverbund-rhein-sieg/835/20171229/gtfs.zip
 options:
   calculateOnDrag: true
   estimatedMaxCalculateCalls: 6500
 tf_location_ids:
 - 605-cologne-germany
-version: 4
+version: 5
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2017-08-26T15:43:46.979268'
-changed: '2018-08-17T14:53:29.920967'
+changed: '2020-03-10T10:41:34.016658'
 cityid: yamanashi
 cityname: Yamanashi Prefecture
 coordinates:
@@ -8,12 +8,12 @@ coordinates:
 - 35.664158
 gtfs:
   yamanashi-813:
-    sha256: 0ad15a3d6f73858a103fd3d9ff830fb59c7db9b73d8f820daf84c39fdfbe58bc
+    sha256: 5516ab4dd46c12a7970f5f495aef8959e05538b83aeb7891d2855808a0e80338
     tf_feed_id: yamanashi/813
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/yamanashi/813/20180816/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/yamanashi/813/20200309/gtfs.zip
 tf_location_ids:
 - 592-yamanashi-prefecture-japan
-version: 4
+version: 5
 zoom: 12
 ---
 

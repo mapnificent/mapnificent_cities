@@ -1,6 +1,6 @@
 ---
 added: '2017-09-15T23:59:05.666255'
-changed: '2018-08-17T13:47:10.381182'
+changed: '2020-03-10T09:48:59.351962'
 cityid: windsor-on
 cityname: Windsor, ON
 coordinates:
@@ -9,13 +9,13 @@ coordinates:
 description: ' A city in Windsor, ON'
 gtfs:
   city-of-windsor-778:
-    sha256: f8f37f1c057ae6f7e711d1a5ce0ded5811f56a2eeca397e32f4713b85e6daf68
+    sha256: bd0a2ee4b66f6da46e39fec55703f63fa4c9d2366fe91c4fa24c8238a9a2b052
     tf_feed_id: city-of-windsor/778
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-windsor/778/20180810/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-windsor/778/20200229/gtfs.zip
 hidden: true
 tf_location_ids:
 - 573-windsor-on-canada
-version: 5
+version: 6
 zoom: 12
 ---
 

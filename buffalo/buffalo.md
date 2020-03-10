@@ -1,6 +1,6 @@
 ---
 added: '2010-11-09T19:58:54.988550'
-changed: '2018-08-17T14:52:56.012973'
+changed: '2020-03-10T10:41:47.958508'
 cityid: buffalo
 cityname: Buffalo
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   niagara-frontier-transportation-authority-230:
-    sha256: 5d1c54584724064b09a906bd79e2cdc7bfd9bb96b6477fb5fc5a748efebbb6c8
+    sha256: 6dea6dd56eb96fa2a0c6e9aa704dd366d255ce08cd44de67011d60db32b5746c
     tf_feed_id: niagara-frontier-transportation-authority/230
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/niagara-frontier-transportation-authority/230/20180710/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/niagara-frontier-transportation-authority/230/20200302/gtfs.zip
 options:
   calculateOnDrag: true
   estimatedMaxCalculateCalls: 40000
 tf_location_ids:
 - 183-buffalo-ny-usa
-version: 4
+version: 5
 zoom: 11
 ---
 

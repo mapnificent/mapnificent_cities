@@ -1,6 +1,6 @@
 ---
 added: '2018-09-11T20:01:40.778686'
-changed: '2018-09-15T14:02:08.675908'
+changed: '2020-03-10T10:22:10.601137'
 cityid: cincinnati
 cityname: Cincinnati
 coordinates:
@@ -8,12 +8,12 @@ coordinates:
 - 39.101407
 gtfs:
   cincinnati-metro-218:
-    sha256: ac844aa5b0e183a5f454904f79561f7db36493016c8ac54a4fd1616a69da737c
+    sha256: dd823176aa8506aeb9bcef8aa2853fcf8465661acdd62df2d5d2825182734611
     tf_feed_id: cincinnati-metro/218
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/cincinnati-metro/218/20180910/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/cincinnati-metro/218/20200226/gtfs.zip
 tf_location_ids:
 - 173-cincinnati-oh-usa
-version: 3
+version: 4
 zoom: 12
 ---
 

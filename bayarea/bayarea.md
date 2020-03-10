@@ -1,6 +1,6 @@
 ---
 added: '2011-06-21T09:26:11.285797'
-changed: '2018-08-17T14:15:08.705583'
+changed: '2020-03-10T10:45:24.390783'
 cityid: bayarea
 cityname: Bay Area
 coordinates:
@@ -9,51 +9,53 @@ coordinates:
 description: ''
 gtfs:
   ac-transit-121:
-    sha256: 5a25a71ec92b4ce1808b038babe3adb341f0f5c05faa0f593bf388d66f8cf8a2
+    sha256: 2383d17ce99dcab8d354d8c6d0431c80b453642bf992be8d5885b0b650c40ed9
     tf_feed_id: ac-transit/121
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ac-transit/121/20180807/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/ac-transit/121/20190809/gtfs.zip
   bart-58:
-    sha256: f05a15571f371cb2bc29ff8bc519f4a9f47cd1210e213b135782865efc6d1411
+    sha256: a2aa17b622054dd3a96616d22fe8d3d30e209562678a06865cd211c32dc1caad
     tf_feed_id: bart/58
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/bart/58/20180611/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/bart/58/20200218/gtfs.zip
   blue-gold-fleet-824:
-    sha256: 41cca12496e80ba2c6f109393c7a99ab9830ff05ca1351ee2d03a5944a9eca0c
+    sha256: eec45e7e3ae5aa848603d7ef5be16c2696664f849a5041b0157bd0cd2dee61b5
     tf_feed_id: blue-gold-fleet/824
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/blue-gold-fleet/824/20180816/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/blue-gold-fleet/824/20200308/gtfs.zip
   caltrain-122:
-    sha256: 977a96a955c54b3f6d4c74e4984b0c1b6f626f8d6439953bb309f67d83634697
+    sha256: 5fdbf316c153f11425958462bae7c21b24ecfb8dc7d6cc65e4ac06161de6e93b
     tf_feed_id: caltrain/122
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/caltrain/122/20180613/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/caltrain/122/20200224/gtfs.zip
   capitol-corridor-825:
-    sha256: a2c81305f5f2e9cd6576f9842a2be636fe17dbdfb986abb1dbac140f2f54fd3f
+    sha256: 6c6da9b17277eb57c4b1444b4a7ecd8617b7097e55248dbc156aa415d081d0a2
     tf_feed_id: capitol-corridor/825
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/capitol-corridor/825/20180816/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/capitol-corridor/825/20190618/gtfs.zip
   golden-gate-bridge-highway-transportation-district-344:
-    sha256: 35bf74ebb7bc8f8b0ae46d0f699de088a38877c174c96c689d0e1bfac0180a3a
+    sha256: 94bd1ef7950b5866c78da33feb7532195a7ead2983b90ea269fdaed4d2c2090d
     tf_feed_id: golden-gate-bridge-highway-transportation-district/344
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/golden-gate-bridge-highway-transportation-district/344/20180814/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/golden-gate-bridge-highway-transportation-district/344/20200309/gtfs.zip
   golden-gate-bridge-highway-transportation-district-349:
-    sha256: 8ec3c8fdfdc26de0d37c26cf2311007446af0ed5ef6b7b1b4ad1e7bc98f6df96
+    sha256: b31ec7195d02a16d031678348903e75c18dce58e9114748a58602d5bcccce6ce
     tf_feed_id: golden-gate-bridge-highway-transportation-district/349
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/golden-gate-bridge-highway-transportation-district/349/20180816/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/golden-gate-bridge-highway-transportation-district/349/20200308/gtfs.zip
   mission-bay-tma-952:
+    sha256: 0dd0f2ce48e130f3e6792c8fab4c40a16afb755c58e7e59c42ee1e55131c206b
     tf_feed_id: mission-bay-tma/952
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/mission-bay-tma/952/20200111/gtfs.zip
   samtrans-144:
-    sha256: 912fd429ae3c661157f633d955551edd479add06d0163cb51bbae1eb86cb29d7
+    sha256: 5a91c6394b1797c30734164b0437ec355a44877358f3f29a2760d1c5f869424d
     tf_feed_id: samtrans/144
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/samtrans/144/20180730/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/samtrans/144/20200225/gtfs.zip
   sfmta-60:
-    sha256: eb6fa2c7ead35c9c3c05dd4f1ed24f24bc9ca4a89c7840ab988de824d5cb1208
+    sha256: 3cbe2202f284e89615f2e1e8cdb4d92e630d01a78db6b4936486dff71732dab1
     tf_feed_id: sfmta/60
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sfmta/60/20180815/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/sfmta/60/20200219/gtfs.zip
   sfmta-942:
     sha256: eb6fa2c7ead35c9c3c05dd4f1ed24f24bc9ca4a89c7840ab988de824d5cb1208
     tf_feed_id: sfmta/942
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sfmta/942/20180815/gtfs.zip
   tideline-water-taxi-756:
-    sha256: 18c5545a19da6f85145ff66f838139fbfc8a6c8d9be11ccec22f73f5bd18f8b7
+    sha256: 493f5e31de5458e9dec592cbc7fc473122abf5bfde63243928b30b419356f0b2
     tf_feed_id: tideline-water-taxi/756
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/tideline-water-taxi/756/20180612/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/tideline-water-taxi/756/20200219/gtfs.zip
 options:
   defaultStartAtPosition:
     lat: 37.7749295
@@ -62,7 +64,7 @@ options:
 tf_location_ids:
 - 68-san-francisco-ca-usa
 - 69-oakland-ca-usa
-version: 4
+version: 5
 zoom: 10
 ---
 

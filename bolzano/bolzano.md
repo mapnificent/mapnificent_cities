@@ -1,6 +1,6 @@
 ---
 added: '2018-07-11T19:48:41.000000'
-changed: '2018-08-17T14:20:06.700853'
+changed: '2020-03-10T10:30:28.479160'
 cityid: bolzano
 cityname: Bolzano/Bozen
 coordinates:
@@ -9,9 +9,9 @@ coordinates:
 description: The GTFS file has been created from VDV452 format using onebusaway-vdv-modules (https://github.com/OneBusAway/onebusaway-vdv-modules).
 gtfs:
   bolzano:
-    sha256: 96e76d0d187907272e3072b00352413962f4e57c65c308fe2b41a79236f1dd98
+    sha256: 006ec1fa891365306fabc336bab0e267b93f591a0beb43550c804f75640194cb
     url: http://sasabus.org/opendata
-version: 6
+version: 7
 zoom: 13
 ---
 

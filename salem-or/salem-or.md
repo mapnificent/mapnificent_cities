@@ -1,6 +1,6 @@
 ---
 added: '2011-06-04T09:29:04.414912'
-changed: '2018-08-17T13:38:35.444753'
+changed: '2020-03-10T10:02:32.049821'
 cityid: salem-or
 cityname: Salem, OR
 coordinates:
@@ -9,15 +9,15 @@ coordinates:
 description: ''
 gtfs:
   cherriots-279:
-    sha256: 5dfef31cbb1f11c326c388ec10b8deeea8e2b28d5b79a94b09c10abcff39c62d
+    sha256: 76fb0b432059440b659fd251fc7b71694856d571a9a2be9382ca65e8ddb1d0fd
     tf_feed_id: cherriots/279
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/cherriots/279/20180808/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/cherriots/279/20191227/gtfs.zip
 options:
   calculateOnDrag: true
   estimatedMaxCalculateCalls: 1000
 tf_location_ids:
 - 208-salem-or-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

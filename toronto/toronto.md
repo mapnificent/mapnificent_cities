@@ -1,6 +1,6 @@
 ---
 added: '2010-10-10T11:13:21.198117'
-changed: '2018-08-17T15:02:56.241683'
+changed: '2020-03-10T09:51:56.848212'
 cityid: toronto
 cityname: Toronto/Hamilton
 coordinates:
@@ -9,21 +9,23 @@ coordinates:
 description: ''
 gtfs:
   go-transit-32:
-    sha256: d74c4b4b03b3fdcb7b40fd70c7edd0335654ee313d1485508b4541293f46f7b4
+    sha256: 2e3356a5015674c4cd57cc16b66313c1e46189c44aa02b2a4fecc5a9a37e400f
     tf_feed_id: go-transit/32
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/32/20180803/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/32/20200211/gtfs.zip
   go-transit-543:
-    sha256: 445f82a1388c30cd4e6ab06cffad7d96722162205fb2571669fa7cda57c28673
+    sha256: 46f7ae14d8f55eecbdc3197f8099ef505bf50cd8fb0c3c2ad8e8ab850df0fb51
     tf_feed_id: go-transit/543
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/543/20180717/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/go-transit/543/20190608/gtfs.zip
   hamilton-street-railway-31:
-    sha256: 1d9be201ab4fdec6b569ddd0fbd5787deb5f2a75fbe6f0cb4007f56f31da1963
+    sha256: 522c8eb0574aa40362b1ca84b684491db5f50d52602e9d36c8b0a50cbae5c471
     tf_feed_id: hamilton-street-railway/31
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/hamilton-street-railway/31/20180618/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/hamilton-street-railway/31/20200117/gtfs.zip
+  hamilton-street-railway-963:
+    tf_feed_id: hamilton-street-railway/963
   ttc-33:
-    sha256: e9ab4bbaaa149f0ba4f5bd51bef4e485a44fe971285fb5951727d7cb61bc2411
+    sha256: b356088abc5ed3d430458487798db2cdc1d5a6bbdf34d81765ee29ad7b08a911
     tf_feed_id: ttc/33
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ttc/33/20180727/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/ttc/33/20200220/gtfs.zip
 options:
   defaultStartAtPosition:
     lat: 43.66389797397276
@@ -33,7 +35,7 @@ options:
 tf_location_ids:
 - 49-toronto-on-canada
 - 48-hamilton-on-canada
-version: 9
+version: 10
 zoom: 9
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2011-06-22T12:54:23.376820'
-changed: '2018-08-17T13:38:21.424329'
+changed: '2020-03-10T10:34:02.943313'
 cityid: detroit
 cityname: Detroit
 coordinates:
@@ -9,19 +9,23 @@ coordinates:
 description: ''
 gtfs:
   city-of-windsor-778:
-    sha256: f8f37f1c057ae6f7e711d1a5ce0ded5811f56a2eeca397e32f4713b85e6daf68
+    sha256: bd0a2ee4b66f6da46e39fec55703f63fa4c9d2366fe91c4fa24c8238a9a2b052
     tf_feed_id: city-of-windsor/778
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-windsor/778/20180810/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/city-of-windsor/778/20200229/gtfs.zip
   detroit-department-of-transportation-299:
-    sha256: 84437b2ce800c02e68df5d0dc863c2719fed50fb7983a49f5a11450ac99517fa
+    sha256: a85fdacd7482aafdb81dcc1c8fe6f3b3f8b59abeba8125bb13c0a2d2d06cfbae
     tf_feed_id: detroit-department-of-transportation/299
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/detroit-department-of-transportation/299/20180420/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/detroit-department-of-transportation/299/20200124/gtfs.zip
+  detroit-transportation-corporation-1043:
+    sha256: 7181247c16cd7932bb3ac69214280a8641a0ad231121ee4ba62b1b0cd809c003
+    tf_feed_id: detroit-transportation-corporation/1043
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/detroit-transportation-corporation/1043/20191018/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 217-detroit-mi-usa
 - 573-windsor-on-canada
-version: 5
+version: 6
 zoom: 12
 ---
 

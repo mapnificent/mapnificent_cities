@@ -1,6 +1,6 @@
 ---
 added: '2017-08-25T17:50:03.645414'
-changed: '2018-04-03T12:50:34.910744'
+changed: '2020-03-10T10:44:07.089719'
 cityid: vienna
 cityname: Vienna
 coordinates:
@@ -9,9 +9,9 @@ coordinates:
 description: ''
 gtfs:
   wienerlinien:
-    sha256: 0ed04ecdbbf571885b93cff98eed45f95f072b68b11c34c5cf50cf47fcfc273b
+    sha256: e143655fd5ecfdf9e355f2091ef39bb09e90bdccb61f8c6298ba6262c232836a
     url: https://www.wien.gv.at/data/zip/gtfs.zip
-version: 2
+version: 3
 zoom: 11
 ---
 

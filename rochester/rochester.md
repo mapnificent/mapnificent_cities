@@ -1,6 +1,6 @@
 ---
 added: '2011-08-15T16:35:07.386320'
-changed: '2018-08-17T13:41:23.854211'
+changed: '2020-03-10T09:53:45.724367'
 cityid: rochester
 cityname: Rochester
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   rochester-genesee-regional-transportation-authority-231:
-    sha256: 39b5497222cf39ecd1ef02265a3b3c5adb6416ff37e30babb491e6b99dd829c7
+    sha256: 5f87fec5e074ec6ca0dfd912ea470439937cfee566cd4a8d789505cff5e4821c
     tf_feed_id: rochester-genesee-regional-transportation-authority/231
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/rochester-genesee-regional-transportation-authority/231/20180613/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/rochester-genesee-regional-transportation-authority/231/20200127/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 270000
 tf_location_ids:
 - 184-rochester-ny-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

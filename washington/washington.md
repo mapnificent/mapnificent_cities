@@ -1,6 +1,6 @@
 ---
 added: '2010-10-03T17:18:52.638769'
-changed: '2018-08-17T13:50:04.010376'
+changed: '2020-03-10T10:24:59.453247'
 cityid: washington
 cityname: Washington D.C.
 coordinates:
@@ -9,23 +9,23 @@ coordinates:
 description: ''
 gtfs:
   wmata-75:
-    sha256: df3a9a67647addc82ac2a177faa205a1640cf9e24fda19fd896b9e5516cfcc80
+    sha256: fa2c239d0727317250e9f3faad561da869d77f6c7394e7f7a1039cbd4b5fd53f
     tf_feed_id: wmata/75
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/wmata/75/20180816/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/wmata/75/20200309/gtfs.zip
   wmata-883:
     sha256: a3aa26f7c0150e02e2b00f229b8a4c4f450bd5ec1b2dcbd67a1d5c8a7c2c7534
     tf_feed_id: wmata/883
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/wmata/883/20180627/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/wmata/883/20180627/gtfs.zip
   wmata-884:
-    sha256: 6b3d9a66092078497d79527fcc2d2b599a1223fc9ef6d471ecafddd868fb2b20
+    sha256: 37388195b7f117265c99ed0016d4e2e25eaa8af5527eb5c74c2e69f4edc42eb6
     tf_feed_id: wmata/884
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/wmata/884/20180704/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/wmata/884/20190801/gtfs.zip
 options:
   dataSize: 5459281
   estimatedMaxCalculateCalls: 550000
 tf_location_ids:
 - 112-washington-dc-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

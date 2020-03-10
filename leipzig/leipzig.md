@@ -1,6 +1,6 @@
 ---
 added: '2017-12-21T12:17:32.079181'
-changed: '2018-07-25T07:45:49.267682'
+changed: '2020-03-10T10:28:30.806151'
 cityid: leipzig
 cityname: Leipzig
 coordinates:
@@ -8,9 +8,9 @@ coordinates:
 - 51.340333
 gtfs:
   leipzig:
-    sha256: 4b8b201c3931b6c5dee2d7fbf8fc7709e528ea22a99d0982745c0d15a158c561
+    sha256: b5cdf986ad91bcecd68b3b676f0d1d07426ed744550e5e014d4fe4050f46a292
     url: https://opendata.leipzig.de/dataset/8803f612-2ce1-4643-82d1-213434889200/resource/b38955c4-431c-4e8b-a4ef-9964a3a2c95d/download/gtfsmdvlvb.zip
-version: 3
+version: 4
 zoom: 12
 ---
 

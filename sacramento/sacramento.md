@@ -1,6 +1,6 @@
 ---
 added: '2010-10-03T17:18:52.638547'
-changed: '2018-08-17T13:41:38.032334'
+changed: '2020-03-10T10:11:17.269150'
 cityid: sacramento
 cityname: Sacramento
 coordinates:
@@ -9,13 +9,13 @@ coordinates:
 description: ''
 gtfs:
   sacramento-regional-transit-161:
-    sha256: 6775c7f20b2b0131479bd7f548397bc5ebe47e9db20e9bb000a89d4c87a1af1b
+    sha256: c90b5bfd3a0da59895bf6fb0201ab5c32b492585d47b09036de4f5f656867fe2
     tf_feed_id: sacramento-regional-transit/161
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sacramento-regional-transit/161/20160928/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/sacramento-regional-transit/161/20200212/gtfs.zip
   sacramento-regional-transit-67:
-    sha256: c1041301beaf0f6addcb392e2bd8fc3b803fe0fdec32efd76b579c62de78e9cb
+    sha256: 381b6826c9ce976c93dc36776c95c523e4a02685b89452a445e52bbdef14a068
     tf_feed_id: sacramento-regional-transit/67
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/sacramento-regional-transit/67/20180602/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/sacramento-regional-transit/67/20191218/gtfs.zip
 options:
   calculateOnDrag: true
   dataSize: 577103
@@ -25,7 +25,7 @@ options:
   estimatedMaxCalculateCalls: 40000
 tf_location_ids:
 - 96-sacramento-ca-usa
-version: 4
+version: 5
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2010-10-07T19:24:57.269498'
-changed: '2018-08-17T14:17:19.314069'
+changed: '2020-03-10T10:27:26.931429'
 cityid: portland
 cityname: Portland
 coordinates:
@@ -9,39 +9,39 @@ coordinates:
 description: ''
 gtfs:
   blue-star-transportation-437:
-    sha256: 5c97b8f5a69f9dca80f23717524d3176b0977c216558c00e70e1881f4f318320
+    sha256: ea339d68d85f2925b80a0914efd8fb593defb073999d2b992bebd1c6d457f73d
     tf_feed_id: blue-star-transportation/437
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/blue-star-transportation/437/20180321/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/blue-star-transportation/437/20191225/gtfs.zip
   caravan-airport-transportation-439:
-    sha256: 44d00ecc74ea7f2055b30d3fad33a6f9c2d4f42445795468dd4ca6774ce28270
+    sha256: 45ef1f18992cde5fa5ff94b41aec47b1b1012bbb51e2d58139821830032650aa
     tf_feed_id: caravan-airport-transportation/439
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/caravan-airport-transportation/439/20180322/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/caravan-airport-transportation/439/20200114/gtfs.zip
   hut-airport-shuttle-467:
-    sha256: 25122f0c3c0d7641fa375a357ac92582e9d32d33afdb1e193c804d88eb3709cf
+    sha256: 8e173058902496938d66de0359a3e1cdd2bd805b5a7ccd41e3f3a9c4ef42969c
     tf_feed_id: hut-airport-shuttle/467
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/hut-airport-shuttle/467/20170915/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/hut-airport-shuttle/467/20190528/gtfs.zip
   ride-connection-477:
-    sha256: 745655cca6adc6849ebda91823e84bbba8e80d485a4be619234bf8ece1c6073e
+    sha256: 39fc395ff21a3a4f4d65e108fedcf5ffd72ec2e58e967ebfb77b3cf90f88c62e
     tf_feed_id: ride-connection/477
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/ride-connection/477/20180323/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/ride-connection/477/20191213/gtfs.zip
   swan-island-evening-shuttle-484:
-    sha256: aa3b60c78d929aea98605ec8216d0d3891dff5f7fa73367b42dd18f0050e5971
+    sha256: 75b40ea31a4082045d464d7b510ae96672b4f8958f2f92ac599aefc57cfb4260
     tf_feed_id: swan-island-evening-shuttle/484
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/swan-island-evening-shuttle/484/20180712/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/swan-island-evening-shuttle/484/20191231/gtfs.zip
   trimet-43:
-    sha256: 627fcc9b307ab9fab50defb7603428d9ffcb3e6c5b49686dc2fedafb5ba7a321
+    sha256: a2ead548e9e157c15c404d75fe328322b8158b384f45a9c60451874485a2c9ee
     tf_feed_id: trimet/43
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/trimet/43/20180724/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/trimet/43/20200309/gtfs.zip
   washington-park-shuttle-758:
-    sha256: 6af25dd1af967ee07da7b53db4aed3a2cc29b9f48376402377edb3f62a5f25d4
+    sha256: fb47b0bc3f811c74da3381a328fbd113d15620e6ad09cbdd1ed90955a7a4e24e
     tf_feed_id: washington-park-shuttle/758
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/washington-park-shuttle/758/20180321/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/washington-park-shuttle/758/20200306/gtfs.zip
 options:
   dataSize: 1880058
   estimatedMaxCalculateCalls: 2600000
 tf_location_ids:
 - 64-portland-or-usa
-version: 5
+version: 6
 zoom: 12
 ---
 

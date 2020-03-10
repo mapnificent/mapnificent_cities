@@ -1,6 +1,6 @@
 ---
 added: '2017-05-04T23:20:29.679796'
-changed: '2018-08-17T13:47:25.218502'
+changed: '2020-03-10T09:59:33.887192'
 cityid: nice
 cityname: Nice
 coordinates:
@@ -11,10 +11,10 @@ gtfs:
   lignes-dazur-738:
     sha256: eb806a7b42531a4edff23ba6b8b26bcb6e6b6cfcc3bb643093aff5f682e8a036
     tf_feed_id: lignes-dazur/738
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/lignes-dazur/738/20170322/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/lignes-dazur/738/20170322/gtfs.zip
 tf_location_ids:
 - 541-nice-france
-version: 4
+version: 5
 zoom: 12
 ---
 

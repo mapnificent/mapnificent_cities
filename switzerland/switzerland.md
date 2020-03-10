@@ -1,6 +1,6 @@
 ---
 added: '2017-11-22T09:54:33.976744'
-changed: '2018-04-03T12:44:22.824450'
+changed: '2020-03-10T09:56:49.558043'
 cityid: switzerland
 cityname: Switzerland
 coordinates:
@@ -16,7 +16,7 @@ options:
   maxWalkTravelTime: 43200
 redirect_from:
 - /zurich/
-version: 2
+version: 3
 zoom: 12
 ---
 

@@ -1,6 +1,6 @@
 ---
 added: '2017-08-25T14:26:43.791562'
-changed: '2018-08-17T15:06:44.025777'
+changed: '2020-03-10T10:17:55.322004'
 cityid: rome
 cityname: Rome
 coordinates:
@@ -9,14 +9,14 @@ coordinates:
 description: ''
 gtfs:
   roma-servizi-per-la-mobilita-542:
-    sha256: fe55b4a3943c6184118998052c175660be20736af7526c8cdbdf7daf11ca9ba3
+    sha256: ea30d9b648c4892c576621f3c10ce46a8fd88aaf80d79b3132d63c58d157f542
     tf_feed_id: roma-servizi-per-la-mobilita/542
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/roma-servizi-per-la-mobilita/542/20180816/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/roma-servizi-per-la-mobilita/542/20200309/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 170000
 tf_location_ids:
 - 402-rome-italy
-version: 5
+version: 6
 zoom: 12
 ---
 

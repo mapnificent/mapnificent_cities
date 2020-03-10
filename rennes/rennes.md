@@ -1,6 +1,6 @@
 ---
 added: '2010-11-18T21:17:23.176275'
-changed: '2017-08-26T18:48:26.845169'
+changed: '2020-03-10T10:29:28.577020'
 cityid: rennes
 cityname: Rennes
 coordinates:
@@ -14,7 +14,7 @@ gtfs:
 options:
   calculateOnDrag: false
   estimatedMaxCalculateCalls: 70000
-version: 2
+version: 3
 zoom: 12
 ---
 

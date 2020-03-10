@@ -1,6 +1,6 @@
 ---
 added: '2017-10-23T13:37:58.035264'
-changed: '2018-08-17T14:21:08.860852'
+changed: '2020-03-10T09:56:11.020250'
 cityid: nancy
 cityname: Nancy
 coordinates:
@@ -8,12 +8,16 @@ coordinates:
 - 48.692054
 gtfs:
   communaute-urbaine-du-grand-nancy-596:
-    sha256: de000ff6c276e74a9f231bba837cca4e82be21d8e8b96a8040c96611e6cb1bfa
+    sha256: 9b15b6f4550fca6aeabb3d6387b8071bbd651cc136a9c76204dd2ffd832bc3b6
     tf_feed_id: communaute-urbaine-du-grand-nancy/596
-    url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/communaute-urbaine-du-grand-nancy/596/20171206/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/communaute-urbaine-du-grand-nancy/596/20190910/gtfs.zip
+  grand-nancy-1068:
+    sha256: 9b15b6f4550fca6aeabb3d6387b8071bbd651cc136a9c76204dd2ffd832bc3b6
+    tf_feed_id: grand-nancy/1068
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/grand-nancy/1068/20190910/gtfs.zip
 tf_location_ids:
 - 446-nancy-france
-version: 4
+version: 5
 zoom: 12
 ---
 

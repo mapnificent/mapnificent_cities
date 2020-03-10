@@ -1,6 +1,6 @@
 ---
 added: '2018-05-11T17:40:27.727611'
-changed: '2018-08-17T15:10:46.828938'
+changed: '2020-03-10T10:47:59.355955'
 cityid: stuttgart
 cityname: Stuttgart
 coordinates:
@@ -9,11 +9,11 @@ coordinates:
 description: ''
 gtfs:
   mvv:
-    sha256: 1b04225ded6ec0ff992c93ebe812265c099156e3725b35714269fc27ae340bb9
+    sha256: 6accfdbe67d647245f9177c028517d98e2c7e5fde122168ae0fba648f8dd5464
     url: https://www.openvvs.de/dataset/e66f03e4-79f2-41d0-90f1-166ca609e491/resource/ee13d454-c41e-413b-8070-c409f9f1518b/download/05_2018_vvs_gtfs.zip
 options:
   estimatedMaxCalculateCalls: 210000
-version: 4
+version: 5
 zoom: 12
 ---
 

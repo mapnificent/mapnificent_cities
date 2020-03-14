@@ -1,6 +1,6 @@
 ---
 added: '2011-05-12T13:10:43.899117'
-changed: '2020-03-10T10:24:25.516202'
+changed: '2020-03-14T09:02:04.768617'
 cityid: manchester
 cityname: Greater Manchester
 coordinates:
@@ -13,9 +13,9 @@ gtfs:
     tf_feed_id: association-of-train-operating-companies/284
     url: https://transitfeeds-data.s3-us-west-1.amazonaws.com/public/feeds/association-of-train-operating-companies/284/20170626/gtfs.zip
   transport-for-greater-manchester-224:
-    sha256: b238d6c51563a8b55554f96f22ffb4349b9de4205d72b7181d41ef89256d82ac
+    sha256: e3efe11411036c7c8f683f092828c9c5bf989989a517176c971c944e92d7f930
     tf_feed_id: transport-for-greater-manchester/224
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/transport-for-greater-manchester/224/20200130/gtfs.zip
+    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/transport-for-greater-manchester/224/20200311/gtfs.zip
 options:
   estimatedMaxCalculateCalls: 5500000
   maxWalkTravelTime: 10800

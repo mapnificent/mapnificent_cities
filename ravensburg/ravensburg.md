@@ -4,10 +4,8 @@ cityname: Ravensburg
 coordinates:
 - 9.60645
 - 47.78441
-# Preferably provide a transitfeeds.com location ID, e.g.
 tf_location_ids:
 - 794-ravensburg-germany
-# Or provide GTFS files like so
 gtfs:
   ravensburg:
     tf_feed_id: bodo-verkehrsverbund/1237

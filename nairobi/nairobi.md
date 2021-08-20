@@ -1,6 +1,6 @@
 ---
 added: '2017-08-26T11:47:33.388763'
-changed: '2020-03-10T10:26:19.988999'
+changed: '2021-08-20T10:26:19.988999'
 cityid: nairobi
 cityname: Nairobi
 coordinates:
@@ -9,8 +9,8 @@ coordinates:
 description: ''
 gtfs:
   matatu:
-    sha256: e1a11696a213d1fb7930b0c48facc3d5a989b95f752c8f7d0bd97c6859846725
-    url: http://www.digitalmatatus.com/pdf/GTFS_DATA_2.zip
+    sha256: c7fd6252011f22c376ad7e67423f1e81781e13bb6939a8b6fa081d01d51e5f28
+    url: http://digitalmatatus.com/data/GTFS_FEED_2019.zip
 options:
   estimatedMaxCalculateCalls: 140000
   maxWalkTravelTime: 13200

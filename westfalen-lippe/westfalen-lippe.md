@@ -9,7 +9,7 @@ coordinates:
 gtfs:
   nwl:
     sha256: 5af4b01c8ed2a26cce7009a1a7d828510f2ed8d9c831a68de447a04cb76c7009
-    url: https://www.opendata-oepnv.de/dataset/89892705-b6e7-4ffc-977c-2ba9b86dde46/resource/41a8bb9e-70b5-45d9-9414-dc852cba0d2a/download/gtfs-nwl-20210812.zip
+    url: https://www.opendata-oepnv.de/dataset/89892705-b6e7-4ffc-977c-2ba9b86dde46/resource/41a8bb9e-70b5-45d9-9414-dc852cba0d2a/download
 options:
   estimatedMaxCalculateCalls: 6000000
   maxWalkTravelTime: 18000

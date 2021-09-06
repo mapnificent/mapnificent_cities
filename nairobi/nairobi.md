@@ -10,7 +10,7 @@ description: ''
 gtfs:
   matatu:
     sha256: e1a11696a213d1fb7930b0c48facc3d5a989b95f752c8f7d0bd97c6859846725
-    url: http://www.digitalmatatus.com/pdf/GTFS_DATA_2.zip
+    url: http://digitalmatatus.com/data/GTFS_FEED_2019.zip
 options:
   estimatedMaxCalculateCalls: 140000
   maxWalkTravelTime: 13200

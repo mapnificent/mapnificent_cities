@@ -14,5 +14,5 @@ version: 1
 zoom: 12
 ---
 
-[MVV](https://www.mvg.de/services/fahrgastservice/fahrplandaten.html)
+[MVG](https://www.mvg.de/services/fahrgastservice/fahrplandaten.html)
 

@@ -1,6 +1,6 @@
 ---
 added: '2012-01-22T02:42:02.576877'
-changed: '2020-03-10T10:30:45.104593'
+changed: '2024-03-10T12:45:45.286'
 cityid: cologne
 cityname: Cologne
 coordinates:
@@ -9,9 +9,9 @@ coordinates:
 description: ''
 gtfs:
   verkehrsverbund-rhein-sieg-835:
-    sha256: 3e69c941c4486ca003cb3b1df19265e4b5e5e29c50e7185ef86c5f51761360e5
+    sha256: 7a0d79a15e7cef113fb8e28b776aa52964bd48c8b15318425d5b6e63672486bb
     tf_feed_id: verkehrsverbund-rhein-sieg/835
-    url: https://openmobilitydata-data.s3-us-west-1.amazonaws.com/public/feeds/verkehrsverbund-rhein-sieg/835/20171229/gtfs.zip
+    url: https://download.vrsinfo.de/gtfs/GTFS_VRS_mit_SPNV.zip
 options:
   calculateOnDrag: true
   estimatedMaxCalculateCalls: 6500
@@ -21,4 +21,4 @@ version: 5
 zoom: 12
 ---
 
-(c) [Verkehrsverbund Rhein-Sieg (VRS)](https://www.vrsinfo.de/fahrplan/oepnv-daten-fuer-webentwickler.html) (Licensed under [Creative Commons Namensnennung CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de))
+(c) [Verkehrsverbund Rhein-Sieg (VRS)](https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice) (Licensed under [Datenlizenz Deutschland – Zero – Version 2.0](https://www.govdata.de/dl-de/zero-2-0))
